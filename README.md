@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Afnan Shoukat</h1>
+<h1 align="center" style="color:pink">🌸 Hi there 👋, I'm Afnan Shoukat 🌸</h1>
 <h3 align="center">AI Developer | Tech Mentor in Progress | Builder of Smart Tools</h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ My dream is to **develop intelligent systems**, **lead communities**, and one da
 <p>
   <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++ -F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++ -F7DF1E?style=for-the-badge&logo=c++&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
