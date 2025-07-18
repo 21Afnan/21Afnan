@@ -11,10 +11,11 @@
 
 ## 💡 About Me
 
-I'm **Afnan**, a passionate and curious student currently pursuing a **Bachelor’s in Artificial Intelligence**.  
-I’m fascinated by how smart technologies can be used to improve everyday life — from healthcare to personal finance and education.
+🎓 I'm Afnan, an AI enthusiast pursuing a Bachelor's in Artificial Intelligence, passionate about building smart, impactful tools.
 
-Right now, I’m in the **exploration and prototyping phase**, learning by building small but meaningful tools using Python, ML frameworks, and UI libraries. My long-term goal is not only to become a capable **AI developer**, but also a **teacher and mentor** who can help others grow with confidence in the world of tech.
+🧠 I love learning by doing - from exploring ML models in Python to designing useful prototypes that solve real problems.
+
+🌱 My goal is to grow as a developer, inspire others as a mentor, and lead with purpose in the world of intelligent technology.
 
 ✨ I believe in **learning by doing**, **leading by sharing**, and **building to empower**.
 
@@ -74,7 +75,7 @@ Right now, I’m in the **exploration and prototyping phase**, learning by build
 
 ## 🔍 Current Focus
 
-🌟 Building a **Fintech Personal Assistant AI** — an intelligent tool for budgeting, reminders, and personal finance insights  
+🌟 Building a **Fintech Personal Assistant AI** - an intelligent tool for budgeting, reminders, and personal finance insights  
 🤖 Learning about **AI Agents, LLMs**, and how they can power next-gen productivity tools  
 📚 Deep diving into **Full Stack Flutter Development**, **ML Projects**, and **Data Mining Techniques**
 
