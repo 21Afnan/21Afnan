@@ -11,7 +11,7 @@
 
 ## 💡 About Me
 
-I'm Afnan, a passionate AI and software developer, currently pursuing my degree in Artificial Intelligence. I love turning **smart ideas into smart tools** — whether it's a brain tumor detection app, a Quran audio player, or a women's health tracker.  
+I'm Afnan, a passionate AI and software developer, currently pursuing my degree in Artificial Intelligence. I love turning **smart ideas into smart tools** - whether it's a brain tumor detection app, a Quran audio player, or a women's health tracker.  
 My dream is to **develop intelligent systems**, **lead communities**, and one day become a **teacher and mentor**, helping others thrive in the world of AI and software.
 
 ---
@@ -21,8 +21,7 @@ My dream is to **develop intelligent systems**, **lead communities**, and one da
 <p>
   <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++ -F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
@@ -75,7 +74,6 @@ My dream is to **develop intelligent systems**, **lead communities**, and one da
 ## 🎯 Goals for 2025
 
 - 🎓 Become a teaching assistant or tech mentor in AI.
-- 🤝 Launch 2+ AI tools to help people in daily life.
 - 📱 Publish a Flutter-based mobile app.
 - 🧠 Master LLMs and AI Agents development.
 
