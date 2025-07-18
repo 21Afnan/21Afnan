@@ -1,101 +1,94 @@
-<h1 align="center">✨ Afnan Shoukat</h1>
-<h3 align="center">AI Developer · Creative Thinker · Future Tech Leader</h3>
+<h1 align="center">Hi 👋, I'm Afnan Shoukat</h1>
+<h3 align="center">AI Enthusiast | Software Developer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Education-BS%20AI%20@%20NUML-orange?style=flat-square" />
-  <a href="mailto:afnanshoukat35@gmail.com"><img src="https://img.shields.io/badge/Email-afnanshoukat35@gmail.com-red?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/afnan-shoukat-030306267"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=flat-square&logo=linkedin"></a>
+🚀 Turning ideas into intelligent solutions | 💡 Helping others grow with tech | 🇵🇰 From Pakistan to the world
 </p>
 
 ---
 
+## 👩‍💻 About Me
+
+Hey there! I'm Afnan, a passionate AI developer and software enthusiast who loves building meaningful systems that solve real-world problems. I believe that technology becomes powerful when it serves people — and that's exactly what I aim for in every project I take on.
+
+Over time, I've developed skills in AI, app development, and data-driven tools. But beyond the code, I’m someone who thrives on learning, teaching, and collaborating with like-minded individuals.
+
+Whether it’s helping someone debug their first Python script or building intelligent automation tools, I believe in *growing together* and creating tech that inspires.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Tools & IDEs:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+Here are a few things I’ve worked on recently:
+
+🔹 **Time Series Anomaly Detection (LSTM)**  
+Smart model to detect unusual behavior in sequential data using deep learning.
+
+🔹 **NLP Text Summarization**  
+Extractive & abstractive summarization using `spaCy`, `TextRank`, and `transformers`.
+
+🔹 **AI-Powered Excel Automation Tool**  
+A productivity tool that reads Excel files and applies intelligent logic.
+
+🔹 **Internship Projects (GRC)**  
+Developed risk tracking systems, dashboards, and report automation tools.
+
+Check out my pinned repositories for more! 🌟
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&width=460&height=45&lines=AI+Developer+on+a+Mission;Inspiring+through+Code+and+Compassion;Let's+Build+the+Future+Together!" />
+  <img src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&theme=radical" alt="Afnan's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21Afnan&theme=radical" alt="Afnan's GitHub Streak" />
 </p>
 
 ---
 
-## 🌐 Introduction
+## 🎯 2025 Goals & Learning
 
-Hello, I'm **Afnan Shoukat**, an aspiring **Artificial Intelligence developer** with a strong vision to build solutions that blend technology with purpose.
-
-I specialize in creating intelligent systems that are not only technically efficient but also human-centric. Whether it's an emotion-aware Quran app or a medical AI model, I focus on bringing innovation into everyday life.
-
----
-
-## 🧠 What Drives Me
-
-- 🔍 Building real-world AI tools with social impact  
-- 💡 Thinking beyond code — crafting intelligent experiences  
-- 🤝 Mentoring, guiding, and growing with the tech community  
-- 🇵🇰 Striving to uplift Pakistan’s presence in the global tech space
+✨ Learning full-stack web development  
+🤖 Mastering advanced AI models like GPT, BERT, and LLMs  
+📚 Starting open-source contributions  
+🎓 Aiming for a scholarship and graduate research in AI  
+🌍 Empowering others through digital literacy & tech awareness
 
 ---
 
-## 🛠️ Technologies & Tools
+## 📫 Let's Connect!
 
-<div align="center">
-
-| Languages  | AI/ML & Data | Tools & UI | Soft Skills |
-|------------|--------------|------------|-------------|
-| `Python` `C++` `Java` `HTML` `CSS` `SQL` `Arduino` | `TensorFlow` `CNN` `LSTM` `RNN` `ANN` `Pandas` `Data Mining` | `Flutter` `Firebase` `Supabase` `Streamlit` `Figma` | Public Speaking · Leadership · Teamwork · Mentoring |
-
-</div>
+💼 [LinkedIn](https://www.linkedin.com/in/afnan-shoukat-030306267)  
+📧 Email: afnanshoukat011@gmail.com  
+🐙 [GitHub](https://github.com/21Afnan)  
+📄 Resume: *[Upload your resume link here]*  
+🌐 Portfolio: *[Add if available]*  
 
 ---
 
-## 🚀 Highlight Projects
+> *"Failure is simply the opportunity to begin again, this time more intelligently." – Henry Ford*
 
-### 🩸 AI-Based Menstrual Cycle Tracker *(In Progress)*  
-An LSTM-powered tool designed to predict cycles and provide smart chatbot support — backed by a real-time Supabase database.
+Thanks for stopping by! 🌟 If you like what I do, consider giving a ⭐ to my projects or connecting with me — I'm always open to collaborations!
 
-### 🧠 Brain Tumor Detection System  
-Two-phase CNN model for tumor detection and Glioma stage classification. Designed to assist early diagnosis with AI-powered insights.
-
-### 🎧 Emotion-Based Quran Player  
-An AI-integrated spiritual app that recommends recitations based on mood, creating a personalized listening experience for peace and reflection.
-
----
-
-## 📜 Learning & Certifications
-
-- 🤖 **AI & Robotics** – NUST (Apr 2024 – Jul 2024)  
-- 🗣️ **English Works Program** – RWU (Aug 2024 – Feb 2025)
-
----
-
-## 💼 Practical Experience
-
-**Intern – Artificial Intelligence Community of Pakistan (AICP)**  
-📍 *Nov 2023 – Jan 2024*  
-→ Developed logic-driven applications in C++  
-→ Worked on local AI development projects
-
-**Intern – Java Developer @ CodSoft**  
-📍 *Feb 2024 – Mar 2024*  
-→ Created desktop-level Java applications  
-→ Practiced software logic and teamwork
-
----
-
-## 🤝 Let’s Collaborate
-
-I'm actively looking to work on:
-- 🌍 AI for healthcare, education, or accessibility  
-- 🧠 AI tools that empower users with little technical background  
-- 🧪 Research-oriented projects or open-source collaborations  
-- 🎓 Mentorship and knowledge-sharing programs  
-
-Feel free to connect and explore possibilities:
-
-- 📬 Email: [afnanshoukat35@gmail.com](mailto:afnanshoukat35@gmail.com)  
-- 🔗 LinkedIn: [afnan-shoukat-030306267](https://www.linkedin.com/in/afnan-shoukat-030306267)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Afnan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
