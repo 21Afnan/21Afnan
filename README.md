@@ -1,94 +1,91 @@
 <h1 align="center">Hi 👋, I'm Afnan Shoukat</h1>
-<h3 align="center">AI Enthusiast | Software Developer | Lifelong Learner</h3>
 
 <p align="center">
-🚀 Turning ideas into intelligent solutions | 💡 Helping others grow with tech | 🇵🇰 From Pakistan to the world
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-%23FF69B4.svg?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software%20Developer-%23FFB6C1.svg?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-%23FF69B4.svg?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hey there! I'm Afnan, a passionate AI developer and software enthusiast who loves building meaningful systems that solve real-world problems. I believe that technology becomes powerful when it serves people — and that's exactly what I aim for in every project I take on.
+Hello! I'm **Afnan Shoukat**, a passionate AI enthusiast and software developer from Pakistan 🇵🇰.  
+I love to build **automated tools**, **smart apps**, and dream of becoming a **mentor and educator** who empowers others to dive into tech.
 
-Over time, I've developed skills in AI, app development, and data-driven tools. But beyond the code, I’m someone who thrives on learning, teaching, and collaborating with like-minded individuals.
-
-Whether it’s helping someone debug their first Python script or building intelligent automation tools, I believe in *growing together* and creating tech that inspires.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & Libraries:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Tools & IDEs:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+I'm currently working on a **Fintech Personal AI Assistant** that uses **AI agents and LLMs** to support users in managing their finances smartly.
 
 ---
 
-## 📌 Featured Projects
+## 🧰 Tech Stack
 
-Here are a few things I’ve worked on recently:
+<div align="center">
 
-🔹 **Time Series Anomaly Detection (LSTM)**  
-Smart model to detect unusual behavior in sequential data using deep learning.
+### 💻 Languages
+<img src="https://img.shields.io/badge/Python-%23FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-%23FFB6C1?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23FFC0CB?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-%23FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%23FFB6C1?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-%23FFC0CB?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-🔹 **NLP Text Summarization**  
-Extractive & abstractive summarization using `spaCy`, `TextRank`, and `transformers`.
+### 🔧 Frameworks & Libraries
+<img src="https://img.shields.io/badge/Flutter-%23FF69B4?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-%23FFC0CB?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23FF69B4?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-🔹 **AI-Powered Excel Automation Tool**  
-A productivity tool that reads Excel files and applies intelligent logic.
+### 🛠 Tools & Platforms
+<img src="https://img.shields.io/badge/VS%20Code-%23FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-%23FF69B4?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-%23FFC0CB?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-%23FF69B4?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-%23FFB6C1?style=for-the-badge&logo=docker&logoColor=white"/>
 
-🔹 **Internship Projects (GRC)**  
-Developed risk tracking systems, dashboards, and report automation tools.
+</div>
 
-Check out my pinned repositories for more! 🌟
+---
+
+## 🌟 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🧠 **Brain Tumor Detection Tool** | A web-based diagnostic tool using **CNN** to analyze MRI scans for tumor detection. Built with **Python, TensorFlow, Streamlit**. |
+| 📿 **Quran Audio Player** | A lightweight desktop player made with **Tkinter** to play Surahs with translation and smooth UI. |
+| 💟 **Menstrual Cycle Tracker** | A health-tracking app developed in **Python/Tkinter** that helps users track and be notified of cycles. |
+| 💰 **(Coming Soon)** FinTech Personal Assistant | An AI-powered smart financial advisor using **LLMs & Agents**, currently under development. |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&theme=radical" alt="Afnan's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21Afnan&theme=radical" alt="Afnan's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21Afnan&theme=radical" height="180"/>
 </p>
 
 ---
 
-## 🎯 2025 Goals & Learning
+## 🎯 2025 Goals
 
-✨ Learning full-stack web development  
-🤖 Mastering advanced AI models like GPT, BERT, and LLMs  
-📚 Starting open-source contributions  
-🎓 Aiming for a scholarship and graduate research in AI  
-🌍 Empowering others through digital literacy & tech awareness
+- 🔬 Master advanced AI topics like LLMs, NLP agents, and generative AI
+- 🛠 Build production-ready apps using Flutter and AI integration
+- 🎓 Become a **mentor/teacher** and help other girls enter tech confidently
+- 🌍 Work on impactful tools for health, education, and accessibility
+- 💡 Collaborate in open-source & contribute to AI for good
 
 ---
 
 ## 📫 Let's Connect!
 
-💼 [LinkedIn](https://www.linkedin.com/in/afnan-shoukat-030306267)  
-📧 Email: afnanshoukat011@gmail.com  
-🐙 [GitHub](https://github.com/21Afnan)  
-📄 Resume: *[Upload your resume link here]*  
-🌐 Portfolio: *[Add if available]*  
+<p align="center">
+  <a href="mailto:afnanshoukat011@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/afnan-shoukat-030306267"><img src="https://img.shields.io/badge/LinkedIn-%23FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/21Afnan"><img src="https://img.shields.io/badge/GitHub-%23FFC0CB?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-> *"Failure is simply the opportunity to begin again, this time more intelligently." – Henry Ford*
-
-Thanks for stopping by! 🌟 If you like what I do, consider giving a ⭐ to my projects or connecting with me — I'm always open to collaborations!
-
+<p align="center" style="color: #FF69B4;">
+  ✨ “I believe in using intelligence for impact — building a future where smart systems uplift humanity.” ✨
+</p>
