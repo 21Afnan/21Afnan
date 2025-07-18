@@ -1,19 +1,22 @@
 <!-- Profile Header -->
-<h1 align="center" style="color:pink">🌸 Hi there 👋, I'm Afnan Shoukat 🌸</h1>
-<h3 align="center">AI Developer | Tech Mentor in Progress | Builder of Smart Tools</h3>
+<h1 align="center" style="color:#ff69b4;">🌸 Hi there 👋, I'm Afnan Shoukat 🌸</h1>
+<h3 align="center">Aspiring AI Developer | Future Tech Mentor | Builder in Progress</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-ffb6c1?style=flat-square&logo=progress" />
-  <img src="https://img.shields.io/badge/Goal-Become%20an%20AI%20Mentor-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Goal-Becoming%20an%20AI%20Mentor-ff69b4?style=flat-square" />
 </p>
 
 ---
 
 ## 💡 About Me
-I'm **Afnan Shoukat**, a dedicated learner and aspiring **AI & Software Developer**, currently pursuing my **Bachelor’s in Artificial Intelligence**.  
-My passion lies in exploring how smart technologies can be applied to solve real-world problems.
 
-While still on my journey, I’ve worked on several **prototype-level projects** using tools like Python, Tkinter - each one shaping me into a stronger builder and problem solver.
+I'm **Afnan**, a passionate and curious student currently pursuing a **Bachelor’s in Artificial Intelligence**.  
+I’m fascinated by how smart technologies can be used to improve everyday life — from healthcare to personal finance and education.
+
+Right now, I’m in the **exploration and prototyping phase**, learning by building small but meaningful tools using Python, ML frameworks, and UI libraries. My long-term goal is not only to become a capable **AI developer**, but also a **teacher and mentor** who can help others grow with confidence in the world of tech.
+
+✨ I believe in **learning by doing**, **leading by sharing**, and **building to empower**.
 
 ---
 
@@ -22,15 +25,15 @@ While still on my journey, I’ve worked on several **prototype-level projects**
 <p>
   <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++ -F7DF1E?style=for-the-badge&logo=c++&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=pink" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=black" />  
-
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### 🎯 Frameworks & Libraries
+
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-E65F8E?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -39,6 +42,7 @@ While still on my journey, I’ve worked on several **prototype-level projects**
 </p>
 
 ### 🧰 Tools & IDEs
+
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F6C5D5?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -48,17 +52,13 @@ While still on my journey, I’ve worked on several **prototype-level projects**
 
 ---
 
-
-
----
-
 ## 🌟 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| 🧠 **Brain Tumor Detection Web Tool** | Built using Python and Deep Learning (CNN), this web app classifies MRI images to detect brain tumors. |
-| 📿 **Quran Audio Player (Tkinter)** | A simple desktop player with Surah listing, translation, and audio playback, built using Python and Tkinter. |
-| 💟 **Menstrual Cycle Tracker (Desktop App)** | A Python GUI app that tracks user health cycles and gives alerts using a clean Tkinter interface. |
+| 🧠 **Brain Tumor Detection Web Tool** | A Python + CNN-based prototype that classifies MRI brain scans to detect tumors. |
+| 📿 **Quran Audio Player (Tkinter)** | A desktop GUI app to explore and play Surahs with audio and translation support. |
+| 💟 **Menstrual Cycle Tracker (Tkinter App)** | A health-focused desktop tool for cycle tracking and notifications. |
 
 ---
 
@@ -74,9 +74,10 @@ While still on my journey, I’ve worked on several **prototype-level projects**
 
 ## 🔍 Current Focus
 
-🌟 Building a **Fintech Personal Assistant AI** — automating savings, reminders, and small budgeting features.  
-🤖 Exploring **LLMs and AI Agents** for everyday productivity tools.  
-📚 Deepening my skills in **Full Stack Flutter Dev**, **ML**, and **Data Mining**.
+🌟 Building a **Fintech Personal Assistant AI** — an intelligent tool for budgeting, reminders, and personal finance insights  
+🤖 Learning about **AI Agents, LLMs**, and how they can power next-gen productivity tools  
+📚 Deep diving into **Full Stack Flutter Development**, **ML Projects**, and **Data Mining Techniques**
+
 ---
 
 ## 📫 Let's Connect
