@@ -4,107 +4,106 @@
 <p align="center">
   📍 Islamabad, Pakistan • 🎓 BS Artificial Intelligence @ NUML (2023–2027) <br>
   📬 <a href="mailto:afnanshoukat35@gmail.com">afnanshoukat35@gmail.com</a> |
-  🔗 <a href="https://www.linkedin.com/in/afnan-shoukat-030306267">LinkedIn</a> |
-  💻 <a href="https://github.com/21Afnan">GitHub</a>
+  🔗 <a href="https://www.linkedin.com/in/afnan-shoukat-030306267">LinkedIn</a>
 </p>
 
 ---
 
-### 🌟 Who I Am
+### 🌟 About Me
 
 > "_Technology is not just about solving problems — it's about inspiring change, empowering minds, and creating a smarter future._"
 
-I'm an **enthusiastic AI developer** with a passion for turning **innovative ideas into meaningful solutions**. From building intelligent systems to developing AI-powered applications, I strive to make a difference — not just in tech, but in the lives of those who use it.
+Hi! I'm Afnan — a **curious mind and a passionate AI developer** on a journey to build things that matter.  
+Whether it’s crafting an intelligent health tool or designing a project that understands human emotions, I believe in blending **code with compassion** and **intelligence with intention**.
 
-Over time, I've worked on projects that range from **healthcare AI** to **emotion-based systems**, and I'm constantly evolving by learning, mentoring, and collaborating.
-
-I don’t just aim to **build machines that think** — I aim to **teach humans how to lead in a world where machines think.**
-
----
-
-### 🔍 What Makes Me Different?
-
-- ✅ I focus on building **real-world AI tools** with societal impact  
-- 🧠 I teach & guide others because **knowledge grows when shared**  
-- 📚 I’m as passionate about **learning** as I am about **leading**  
-- 🎯 I dream of creating solutions that can **uplift Pakistan’s tech industry** globally
+I’m not just here to write programs. I’m here to **create impact**, **share knowledge**, and **uplift others** in the process. My work reflects not only my technical foundation, but also my drive to contribute meaningfully to the tech world — and to Pakistan's future.
 
 ---
 
-### 🚀 Technical Skills
+### 💡 What Drives Me?
 
-#### 💻 Programming & Tools
-`Python` `C++` `Java` `SQL/NoSQL` `Arduino` `Flutter`
+- 🚀 Turning bold ideas into practical AI solutions  
+- 🤝 Mentoring and learning in communities that grow together  
+- 🔭 Always exploring — from machine learning to mobile apps  
+- 🌍 Dreaming of a smarter, more inclusive tech ecosystem
 
-#### 🧠 AI / ML / Data Science
-`TensorFlow` `LSTM` `CNN` `RNN` `ANN` `Data Mining` `Pandas` `Matplotlib`
+---
 
-#### 🔧 Web & App Development
-`Supabase` `Vercel` `Ngrok` `Firebase` `Figma` `Streamlit`
+### 🧠 What I Work With
 
-#### 🤝 Soft Skills
-`Problem Solving` `Communication` `Teamwork` `Leadership` `Public Speaking`
+#### 💻 Programming & Tech
+`Python` `C++` `Java` `HTML` `CSS` `SQL` `Arduino`
+
+#### 🤖 AI & Machine Learning
+`TensorFlow` `CNN` `RNN` `LSTM` `ANN` `Data Mining` `Pandas` `Matplotlib`
+
+#### 🧰 Tools & Platforms
+`Flutter` `Streamlit` `Supabase` `Firebase` `Figma`
+
+#### 🎯 Soft Skills
+`Public Speaking` `Teamwork` `Mentorship` `Problem Solving` `Leadership`
+
+---
+
+### 🌱 My Learning Philosophy
+
+I don’t believe in gatekeeping knowledge — I believe in **uplifting others through mentorship, empathy, and collaboration**.  
+Because the real power of AI isn’t just in automation — it’s in **amplifying human potential**.
+
+---
+
+### 🧪 Projects I’m Proud Of
+
+#### 🩸 **AI-Based Menstrual Cycle Tracker** *(In Progress)*  
+Empowering women through health predictions using **LSTM models**.  
+Includes an intuitive chatbot and real-time backend with **Supabase**.
+
+#### 🧠 **Brain Tumor Detection & Glioma Classification**  
+Two-stage deep learning model using **CNN**:  
+- Stage 1: Detects tumor type  
+- Stage 2: Predicts Glioma stage  
+Aims to make early detection accessible and intelligent.
+
+#### 🎧 **Emotion-Based Quran Player**  
+Detects the user’s mood and recommends **Quranic recitations** to soothe the soul.  
+An AI app that understands and heals.
+
+---
+
+### 📜 Certifications
+
+- 🤖 **AI & Robotics** – NUST (Apr 2024 – Jul 2024)  
+- 🗣️ **English Works Program** – RWU (Aug 2024 – Feb 2025)
 
 ---
 
 ### 💼 Experience
 
 #### 🧠 Intern – AICP (Artificial Intelligence Community of Pakistan)  
-*Nov 2023 – Jan 2024 | Lahore*  
-- Built logic-based AI programs in C++  
-- Collaborated on intelligent solutions for local AI use cases
+*Nov 2023 – Jan 2024 – Lahore*  
+- Built logic-focused programs in C++  
+- Contributed to beginner-friendly AI tools
 
 #### 💻 Java Intern – CodSoft  
-*Feb 2024 – Mar 2024 | Remote*  
-- Developed beginner-level Java applications  
-- Enhanced technical collaboration and communication
+*Feb 2024 – Mar 2024 – Remote*  
+- Designed Java-based desktop applications  
+- Strengthened professional communication
 
 ---
 
-### 📜 Certifications
+### 🧭 Let’s Build the Future Together
 
-- 🎖️ **AI & Robotics** – NUST (Apr 2024 – Jul 2024)  
-- 🗣️ **English Works Program** – RWU (Aug 2024 – Feb 2025)
+I’m always open to:
+- 🤝 Collaborating on ML/AI-based apps
+- 🌱 Mentoring or guiding junior learners
+- 💼 Internship or research opportunities
+- ✨ Creating things that make life easier, smarter, and kinder
 
----
-
-### 🧪 Featured Projects
-
-#### 🩸 **Menstrual Cycle Tracker** *(In Progress)*  
-Predicts menstrual cycles using LSTM and offers chatbot support for female users. Backend powered by **Supabase**.
-
-#### 🧠 **Brain Tumor Detector**
-Built a two-stage CNN model to detect tumor types and predict Glioma stages. Includes a chatbot guide and deploys using **Ngrok**.
-
-#### 🎧 **Quran Player Based on Emotions**
-Takes emotional input from the user and recommends calming **Quranic recitations**. Combines AI with spirituality for mental peace.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Afnan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📣 Let's Connect & Collaborate
-
-I'm always open to:
-- 🤖 AI/ML collaborations
-- 💡 Mentoring & teaching opportunities
-- 🧪 Research or internship roles
-- 🧠 Building purposeful tools together
-
-🔗 **LinkedIn:** [afnan-shoukat-030306267](https://www.linkedin.com/in/afnan-shoukat-030306267)  
-💻 **GitHub:** [21Afnan](https://github.com/21Afnan)  
-📧 **Email:** [afnanshoukat35@gmail.com](mailto:afnanshoukat35@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/afnan-shoukat-030306267)  
+📧 [afnanshoukat35@gmail.com](mailto:afnanshoukat35@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Developer+on+a+Mission;Inspiring+Through+Code+and+Compassion;Let%E2%80%99s+Build+the+Future+Together!&font=Fira+Code&center=true&width=420&height=50&color=F97316&vCenter=true&pause=1000&size=20" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&width=440&height=50&lines=AI+Developer+on+a+Mission;Inspiring+through+Code+and+Compassion;Let's+Build+the+Future+Together!" />
 </p>
