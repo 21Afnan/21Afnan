@@ -10,9 +10,10 @@
 ---
 
 ## 💡 About Me
+I'm **Afnan Shoukat**, a dedicated learner and aspiring **AI & Software Developer**, currently pursuing my **Bachelor’s in Artificial Intelligence**.  
+My passion lies in exploring how smart technologies can be applied to solve real-world problems.
 
-I'm Afnan, a passionate AI and software developer, currently pursuing my degree in Artificial Intelligence. I love turning **smart ideas into smart tools** - whether it's a brain tumor detection app, a Quran audio player, or a women's health tracker.  
-My dream is to **develop intelligent systems**, **lead communities**, and one day become a **teacher and mentor**, helping others thrive in the world of AI and software.
+While still on my journey, I’ve worked on several **prototype-level projects** using tools like Python, Tkinter - each one shaping me into a stronger builder and problem solver.
 
 ---
 
@@ -23,6 +24,10 @@ My dream is to **develop intelligent systems**, **lead communities**, and one da
   <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/C++ -F7DF1E?style=for-the-badge&logo=c++&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=pink" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=black" />  
+
 </p>
 
 ### 🎯 Frameworks & Libraries
