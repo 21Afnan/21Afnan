@@ -1,48 +1,54 @@
-<h1 align="center">Hi 👋, I'm Afnan Shoukat</h1>
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Afnan Shoukat</h1>
+<h3 align="center">AI Developer | Tech Mentor in Progress | Builder of Smart Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-%23FF69B4.svg?style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software%20Developer-%23FFB6C1.svg?style=for-the-badge&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lifelong%20Learner-%23FF69B4.svg?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-ffb6c1?style=flat-square&logo=progress" />
+  <img src="https://img.shields.io/badge/Goal-Become%20an%20AI%20Mentor-ff69b4?style=flat-square" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 💡 About Me
 
-Hello! I'm **Afnan Shoukat**, a passionate AI enthusiast and software developer from Pakistan 🇵🇰.  
-I love to build **automated tools**, **smart apps**, and dream of becoming a **mentor and educator** who empowers others to dive into tech.
-
-I'm currently working on a **Fintech Personal AI Assistant** that uses **AI agents and LLMs** to support users in managing their finances smartly.
+I'm Afnan, a passionate AI and software developer, currently pursuing my degree in Artificial Intelligence. I love turning **smart ideas into smart tools** — whether it's a brain tumor detection app, a Quran audio player, or a women's health tracker.  
+My dream is to **develop intelligent systems**, **lead communities**, and one day become a **teacher and mentor**, helping others thrive in the world of AI and software.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
-### 💻 Languages
-<img src="https://img.shields.io/badge/Python-%23FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-%23FFB6C1?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23FFC0CB?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-%23FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-%23FFB6C1?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-%23FFC0CB?style=for-the-badge&logo=postgresql&logoColor=white"/>
+### 🎯 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-E65F8E?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-EC407A?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-### 🔧 Frameworks & Libraries
-<img src="https://img.shields.io/badge/Flutter-%23FF69B4?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-%23FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-%23FFC0CB?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-%23FF69B4?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+### 🧰 Tools & IDEs
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F6C5D5?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-8E44AD?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-### 🛠 Tools & Platforms
-<img src="https://img.shields.io/badge/VS%20Code-%23FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-%23FF69B4?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-%23FFC0CB?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-%23FF69B4?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-%23FFB6C1?style=for-the-badge&logo=docker&logoColor=white"/>
+---
 
-</div>
+## 🔍 Current Focus
+
+🌟 Building a **Fintech Personal Assistant AI** — automating savings, reminders, and small budgeting features.  
+🤖 Exploring **LLMs and AI Agents** for everyday productivity tools.  
+📚 Deepening my skills in **Full Stack Flutter Dev**, **ML**, and **Data Mining**.
 
 ---
 
@@ -50,42 +56,41 @@ I'm currently working on a **Fintech Personal AI Assistant** that uses **AI agen
 
 | Project | Description |
 |--------|-------------|
-| 🧠 **Brain Tumor Detection Tool** | A web-based diagnostic tool using **CNN** to analyze MRI scans for tumor detection. Built with **Python, TensorFlow, Streamlit**. |
-| 📿 **Quran Audio Player** | A lightweight desktop player made with **Tkinter** to play Surahs with translation and smooth UI. |
-| 💟 **Menstrual Cycle Tracker** | A health-tracking app developed in **Python/Tkinter** that helps users track and be notified of cycles. |
-| 💰 **(Coming Soon)** FinTech Personal Assistant | An AI-powered smart financial advisor using **LLMs & Agents**, currently under development. |
+| 🧠 **Brain Tumor Detection Web Tool** | Built using Python and Deep Learning (CNN), this web app classifies MRI images to detect brain tumors. |
+| 📿 **Quran Audio Player (Tkinter)** | A simple desktop player with Surah listing, translation, and audio playback, built using Python and Tkinter. |
+| 💟 **Menstrual Cycle Tracker (Desktop App)** | A Python GUI app that tracks user health cycles and gives alerts using a clean Tkinter interface. |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21Afnan&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ffb6c1" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=21Afnan&theme=pink&border=FF69B4&ring=FFC0CB&fire=FF69B4&currStreakNum=FF69B4" />
 </p>
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 Goals for 2025
 
-- 🔬 Master advanced AI topics like LLMs, NLP agents, and generative AI
-- 🛠 Build production-ready apps using Flutter and AI integration
-- 🎓 Become a **mentor/teacher** and help other girls enter tech confidently
-- 🌍 Work on impactful tools for health, education, and accessibility
-- 💡 Collaborate in open-source & contribute to AI for good
+- 🎓 Become a teaching assistant or tech mentor in AI.
+- 🤝 Launch 2+ AI tools to help people in daily life.
+- 📱 Publish a Flutter-based mobile app.
+- 🧠 Master LLMs and AI Agents development.
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
-<p align="center">
-  <a href="mailto:afnanshoukat011@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/afnan-shoukat-030306267"><img src="https://img.shields.io/badge/LinkedIn-%23FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/21Afnan"><img src="https://img.shields.io/badge/GitHub-%23FFC0CB?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p>
+  <a href="mailto:afnanshoukat011@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/afnan-shoukat-030306267"><img src="https://img.shields.io/badge/LinkedIn-EC407A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/21Afnan"><img src="https://img.shields.io/badge/GitHub-8E44AD?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center" style="color: #FF69B4;">
-  ✨ “I believe in using intelligence for impact — building a future where smart systems uplift humanity.” ✨
-</p>
+> 💬 *“Failure is simply the opportunity to begin again, this time more intelligently.” — Henry Ford*
+
+---
