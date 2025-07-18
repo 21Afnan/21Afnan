@@ -48,11 +48,7 @@ While still on my journey, I’ve worked on several **prototype-level projects**
 
 ---
 
-## 🔍 Current Focus
 
-🌟 Building a **Fintech Personal Assistant AI** — automating savings, reminders, and small budgeting features.  
-🤖 Exploring **LLMs and AI Agents** for everyday productivity tools.  
-📚 Deepening my skills in **Full Stack Flutter Dev**, **ML**, and **Data Mining**.
 
 ---
 
@@ -76,12 +72,11 @@ While still on my journey, I’ve worked on several **prototype-level projects**
 
 ---
 
-## 🎯 Goals for 2025
+## 🔍 Current Focus
 
-- 🎓 Become a teaching assistant or tech mentor in AI.
-- 📱 Publish a Flutter-based mobile app.
-- 🧠 Master LLMs and AI Agents development.
-
+🌟 Building a **Fintech Personal Assistant AI** — automating savings, reminders, and small budgeting features.  
+🤖 Exploring **LLMs and AI Agents** for everyday productivity tools.  
+📚 Deepening my skills in **Full Stack Flutter Dev**, **ML**, and **Data Mining**.
 ---
 
 ## 📫 Let's Connect
