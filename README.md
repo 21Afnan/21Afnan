@@ -38,7 +38,6 @@
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-E65F8E?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-EC407A?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
@@ -47,7 +46,6 @@
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F6C5D5?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-8E44AD?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -77,7 +75,7 @@
 
 🌟 Building a **Fintech Personal Assistant AI** - an intelligent tool for budgeting, reminders, and personal finance insights  
 🤖 Learning about **AI Agents, LLMs**, and how they can power next-gen productivity tools  
-📚 Deep diving into **Full Stack Flutter Development**, **ML Projects**, and **Data Mining Techniques**
+📚 Deep diving into **ML Projects** and **Data Mining Techniques**
 
 ---
 
@@ -92,5 +90,3 @@
 ---
 
 > 💬 *“Failure is simply the opportunity to begin again, this time more intelligently.” — Henry Ford*
-
----
