@@ -26,7 +26,7 @@
 
 <!-- My Portfolio -->
 <p align=center>
-  <a href="https://afnanshoukat.me" title="Portfolio">
+  <a href="https://www.afnanshoukat.me" title="Portfolio">
     <img src="https://img.shields.io/badge/My%20Portfolio-afnanshoukat.me-FF69B4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
