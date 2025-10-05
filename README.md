@@ -183,8 +183,8 @@ I love the creative process of turning data and models into products people can 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:afnanshoukat011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-afnanshoukar011%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:afnanshoukat35@gmail.com">
+    <img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/afnanshoukat">
     <img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
