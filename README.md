@@ -1,14 +1,14 @@
 <!-- ======== DYNAMIC TOP WAVE HEADER (Animated Pink Gradient) ======== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Afnan%20Shoukat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=FF69B4&v=12" width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Afnan%20Shoukat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=FF69B4&v=12" width="100%"
     alt="Dynamic Waving Header"
   />
 </p>
 
-<!-- ======== DYNAMIC ANIMATED TYPING LINE ======== -->
+<!-- ======== DYNAMIC ANIMATED TYPING LINE (Constrained Width) ======== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=950&lines=Full+Stack+AI+%26+ML+Developer;Passionate+About+RAG%2C+LLMs+%26+Multi-Agent+AI;Building+Autonomous+Industrial+IoT+%26+Voice+AI;Turning+Deep+Learning+into+Real-World+Products" alt="Animated typing lines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=820&lines=Full+Stack+AI+%26+ML+Developer;Passionate+About+RAG%2C+LLMs+%26+Multi-Agent+AI;Building+Autonomous+Industrial+IoT+%26+Voice+AI;Turning+Deep+Learning+into+Real-World+Products" alt="Animated typing lines" />
 </div>
 
 <!-- ======== DYNAMIC LIVE PROFILE COUNTERS ======== -->
@@ -32,11 +32,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
 
-<!-- ======== DYNAMIC GITHUB TROPHIES (Live Rank & Achievement System) ======== -->
+<!-- ======== DYNAMIC GITHUB TROPHIES (Constrained Column Fit) ======== -->
 <h3 align="center">🏆 Live GitHub Achievements & Ranks</h3>
 <p align="center">
   <a href="https://github.com/21Afnan">
-    <img src="https://github-profile-trophy.vercel.app/?username=21Afnan&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=21Afnan&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/21Afnan">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=21Afnan&bg_color=0D1117&color=FF69B4&line=FF1493&point=FF5C8A&area=true&hide_border=true" width="92%" alt="Animated Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=21Afnan&bg_color=0D1117&color=FF69B4&line=FF1493&point=FF5C8A&area=true&hide_border=true" width="800" alt="Animated Activity Graph" />
   </a>
 </p>
 
@@ -100,133 +100,87 @@ I love the creative process of turning data and models into dynamic products peo
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
 
-## 🚀 Dynamic Live Featured Projects
+## 🚀 Recent Flagship Projects (Top 4 Showcase)
 
-> ✨ **Live Data & Screenshot Showcase:** Every project below features **Live GitHub Stats Cards** that update dynamically in real-time as stars, forks, and code bases grow, plus custom picture slots ready for my latest UI screenshots!
+> ✨ **Live GitHub Cards & Screenshot Slots:** Here are my **Top 4 recent flagship projects**. Each card pulls live dynamic GitHub metrics (`Stars`, `Forks`, `Language Bar`) and includes a compact preview slot ready for UI screenshots!
 
-<table>
+<table align="center" width="100%">
   <!-- ROW 1: IntelliViz & AirLyst -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3 align="center">🏭 IntelliViz (Industrial IoT FYP)</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/IntelliViz">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=IntelliViz&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF69B4&icon_color=FF69B4&title_color=FF69B4" alt="IntelliViz Live Stats" />
-        </a>
-      </p>
+      <a href="https://github.com/21Afnan/IntelliViz">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=IntelliViz&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF69B4&icon_color=FF69B4&title_color=FF69B4" width="350" alt="IntelliViz Live Stats" />
+      </a>
+      <br/><br/>
       <!-- 📸 IMAGE SLOT FOR INTELLIVIZ -->
-      <p align="center">
-        <i><!-- 📸 Drop IntelliViz Screenshot Picture Here --></i>
-        <a href="https://github.com/21Afnan/IntelliViz">
-          <img src="https://via.placeholder.com/550x240/0D1117/FF69B4?text=%E2%9A%A1+Live+IntelliViz+Multi-Agent+Preview" width="100%" alt="IntelliViz Preview" />
-        </a>
-      </p>
-      <p align="center">
-        <b>IntelliViz</b> is an autonomous IoT platform with a <b>LangGraph multi-agent backend</b> monitoring real-time CNC machine telemetry, anomaly detection, and LSTM Remaining Useful Life (RUL) estimation.<br/>
-        🔗 <a href="https://github.com/21Afnan/IntelliViz">Explore Repository</a>
+      <i><!-- 📸 Drop IntelliViz Screenshot Picture Here --></i>
+      <a href="https://github.com/21Afnan/IntelliViz">
+        <img src="https://via.placeholder.com/350x180/0D1117/FF69B4?text=%E2%9A%A1+Live+IntelliViz+Preview" width="350" alt="IntelliViz Preview" />
+      </a>
+      <p align="left" style="max-width: 350px;">
+        <br/>
+        • <b>Multi-Agent LangGraph Backend:</b> Real-time CNC machine monitoring across cloud-connected IoT sensors.<br/>
+        • <b>LSTM Deep Learning Engine:</b> Autonomous anomaly detection & Remaining Useful Life (RUL) forecasting before failure occurs.<br/>
+        🔗 <a href="https://github.com/21Afnan/IntelliViz"><b>Explore Repository</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3 align="center">🌤️ AirLyst (Pearls AQI Predictor)</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/AirLyst">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=AirLyst&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF69B4&icon_color=FF69B4&title_color=FF69B4" alt="AirLyst Live Stats" />
-        </a>
-      </p>
+      <a href="https://github.com/21Afnan/AirLyst">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=AirLyst&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF69B4&icon_color=FF69B4&title_color=FF69B4" width="350" alt="AirLyst Live Stats" />
+      </a>
+      <br/><br/>
       <!-- 📸 IMAGE SLOT FOR AIRLYST -->
-      <p align="center">
-        <i><!-- 📸 Drop AirLyst Screenshot Picture Here --></i>
-        <a href="https://github.com/21Afnan/AirLyst">
-          <img src="https://via.placeholder.com/550x240/0D1117/FF69B4?text=%E2%9A%A1+Live+AirLyst+Serverless+MLOps+Preview" width="100%" alt="AirLyst Preview" />
-        </a>
-      </p>
-      <p align="center">
-        <b>AirLyst</b> is a solo serverless AQI forecasting pipeline with <b>Hopsworks Feature Store</b>, XGBoost/LSTM models, automated <b>GitHub Actions CI/CD retraining</b>, and a live Streamlit dashboard.<br/>
-        🔗 <a href="https://github.com/21Afnan/AirLyst">Explore Repository</a>
+      <i><!-- 📸 Drop AirLyst Screenshot Picture Here --></i>
+      <a href="https://github.com/21Afnan/AirLyst">
+        <img src="https://via.placeholder.com/350x180/0D1117/FF69B4?text=%E2%9A%A1+Live+AirLyst+MLOps+Preview" width="350" alt="AirLyst Preview" />
+      </a>
+      <p align="left" style="max-width: 350px;">
+        <br/>
+        • <b>Solo Serverless Architecture:</b> Ingests 1 year of telemetry via Open-Meteo API into <b>Hopsworks Feature Store</b>.<br/>
+        • <b>Automated CI/CD Retraining:</b> Zero-intervention MLOps via <b>GitHub Actions</b> serving a live Streamlit dashboard.<br/>
+        🔗 <a href="https://github.com/21Afnan/AirLyst"><b>Explore Repository</b></a>
       </p>
     </td>
   </tr>
 
   <!-- ROW 2: Surakhsha AI & ApplyMate -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3 align="center">🛡️ Surakhsha AI</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/SurakhshaAI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=SurakhshaAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF5C8A&icon_color=FF5C8A&title_color=FF5C8A" alt="Surakhsha AI Live Stats" />
-        </a>
-      </p>
-      <p align="center">
-        <b>Surakhsha AI</b> is an AI-powered defense control system that detects, classifies, and flags potential threats in real time across live video feeds.<br/>
-        🔗 <a href="https://github.com/21Afnan/SurakhshaAI">Explore Repository</a>
+      <a href="https://github.com/21Afnan/SurakhshaAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=SurakhshaAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF5C8A&icon_color=FF5C8A&title_color=FF5C8A" width="350" alt="Surakhsha AI Live Stats" />
+      </a>
+      <br/><br/>
+      <!-- 📸 IMAGE SLOT FOR SURAKHSHA AI -->
+      <i><!-- 📸 Drop Surakhsha AI Screenshot Picture Here --></i>
+      <a href="https://github.com/21Afnan/SurakhshaAI">
+        <img src="https://via.placeholder.com/350x180/0D1117/FF5C8A?text=%E2%9A%A1+Live+Surakhsha+AI+Preview" width="350" alt="Surakhsha AI Preview" />
+      </a>
+      <p align="left" style="max-width: 350px;">
+        <br/>
+        • <b>Real-Time Threat Recognition:</b> AI-powered defense control center designed to detect and classify high-risk anomalies in live video feeds.<br/>
+        • <b>Interactive Control UI:</b> Visual bounding boxes, situational awareness, and low-latency critical monitoring.<br/>
+        🔗 <a href="https://github.com/21Afnan/SurakhshaAI"><b>Explore Repository</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3 align="center">🤖 ApplyMate</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/ApplyMate">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=ApplyMate&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF77A9&icon_color=FF77A9&title_color=FF77A9" alt="ApplyMate Live Stats" />
-        </a>
-      </p>
-      <p align="center">
-        <b>ApplyMate</b> automates job applications end-to-end using intelligent n8n workflows, smart NLP CV personalization, and a FastAPI backend.<br/>
-        🔗 <a href="https://github.com/21Afnan/ApplyMate">Explore Repository</a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- ROW 3: VoiceIQ & Inbox Guardian -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎙️ VoiceIQ</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/VoiceIQ">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=VoiceIQ&theme=dark&hide_border=true&bg_color=0D1117&border_color=FFA6C9&icon_color=FFA6C9&title_color=FFA6C9" alt="VoiceIQ Live Stats" />
-        </a>
-      </p>
-      <p align="center">
-        <b>VoiceIQ</b> is a voice-first AI assistant featuring Deepgram STT, FAISS vector retrieval, and smart multi-LLM routing across GPT-4, Gemini, and DeepSeek.<br/>
-        🔗 <a href="https://github.com/21Afnan/VoiceIQ">Explore Repository</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📬 Inbox Guardian (n8n)</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/Inbox_Guardian">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=Inbox_Guardian&theme=dark&hide_border=true&bg_color=0D1117&border_color=FFA6C9&icon_color=FFA6C9&title_color=FFA6C9" alt="Inbox Guardian Live Stats" />
-        </a>
-      </p>
-      <p align="center">
-        <b>Inbox Guardian</b> leverages autonomous n8n workflows to classify, route, and trigger real-time Discord alerts for important priority emails with zero human touchpoints.<br/>
-        🔗 <a href="https://github.com/21Afnan/Inbox_Guardian">Explore Repository</a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- ROW 4: CycleSenseAI & PakShield -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💗 CycleSenseAI</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/CycleSenseAI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=CycleSenseAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=FFB7D9&icon_color=FFB7D9&title_color=FFB7D9" alt="CycleSenseAI Live Stats" />
-        </a>
-      </p>
-      <p align="center">
-        <b>CycleSenseAI</b> is an LSTM-based menstrual cycle predictor designed with an intuitive UI and helpful personalized health reminders.<br/>
-        🔗 <a href="https://github.com/21Afnan/CycleSenseAI">Explore Repository</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ PakShield Defence AI (Uraan AI)</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=PakShield-Defence-AI&theme=dark&hide_border=true&bg_color=0D1117&border_color=FFCADF&icon_color=FFCADF&title_color=FFCADF" alt="PakShield Live Stats" />
-        </a>
-      </p>
-      <p align="center">
-        <b>PakShield Defence AI</b> is a multi-module real-time defense suite integrating weapon detection (YOLOv8), drone recognition (YOLOv11), and thermal human tracking via FastAPI.<br/>
-        🔗 <a href="https://github.com/21Afnan">Explore Repository</a>
+      <a href="https://github.com/21Afnan/ApplyMate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=ApplyMate&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF77A9&icon_color=FF77A9&title_color=FF77A9" width="350" alt="ApplyMate Live Stats" />
+      </a>
+      <br/><br/>
+      <!-- 📸 IMAGE SLOT FOR APPLYMATE -->
+      <i><!-- 📸 Drop ApplyMate Screenshot Picture Here --></i>
+      <a href="https://github.com/21Afnan/ApplyMate">
+        <img src="https://via.placeholder.com/350x180/0D1117/FF77A9?text=%E2%9A%A1+Live+ApplyMate+Preview" width="350" alt="ApplyMate Preview" />
+      </a>
+      <p align="left" style="max-width: 350px;">
+        <br/>
+        • <b>Smart CV Personalization:</b> Contextually tailors resumes and cover letters using advanced NLP and role-specific templates.<br/>
+        • <b>Automated Orchestration:</b> High-reliability n8n workflows paired with a FastAPI backend to automate applications cleanly.<br/>
+        🔗 <a href="https://github.com/21Afnan/ApplyMate"><b>Explore Repository</b></a>
       </p>
     </td>
   </tr>
@@ -236,10 +190,10 @@ I love the creative process of turning data and models into dynamic products peo
 <h3 align="center">📊 Live Dynamic GitHub Statistics</h3>
 <p align="center">
   <a href="https://github.com/21Afnan">
-    <img src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&theme=dark&bg_color=0D1117&border_color=FF69B4&icon_color=FF69B4&title_color=FF69B4&text_color=FFFFFF" alt="Afnan's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&theme=dark&bg_color=0D1117&border_color=FF69B4&icon_color=FF69B4&title_color=FF69B4&text_color=FFFFFF" width="410" alt="Afnan's GitHub Stats" />
   </a>
   <a href="https://github.com/21Afnan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Afnan&layout=compact&theme=dark&bg_color=0D1117&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Afnan&layout=compact&theme=dark&bg_color=0D1117&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF" width="340" alt="Top Languages" />
   </a>
 </p>
 
