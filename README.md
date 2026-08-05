@@ -1,17 +1,17 @@
-<!-- ======== TOP WAVE HEADER (Pink Gradient) ======== -->
+<!-- ======== DYNAMIC TOP WAVE HEADER (Animated Pink Gradient) ======== -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Afnan%20Shoukat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=FF69B4&v=12" width="100%"
-    alt="Afnan Shoukat"
+    alt="Dynamic Waving Header"
   />
 </p>
 
-<!-- ======== TYPING LINE ======== -->
+<!-- ======== DYNAMIC ANIMATED TYPING LINE (Constrained Width) ======== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=Full+Stack+AI+Engineer;Deep+Learning+and+LLM+Specialist;Expert+in+RAG%2C+NLP+and+Computer+Vision" alt="Animated typing lines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=850&lines=Full+Stack+AI+%26+ML+Developer;Passionate+About+RAG%2C+LLMs+%26+Multi-Agent+AI;Building+Autonomous+Industrial+IoT+%26+Voice+AI;Turning+Deep+Learning+into+Real-World+Products" alt="Animated typing lines" />
 </div>
 
-<!-- ======== BADGES (PINK THEME) ======== -->
+<!-- ======== DYNAMIC LIVE PROFILE COUNTERS ======== -->
 <p align="center">
   <a href="https://github.com/21Afnan" title="Profile views">
     <img src="https://komarev.com/ghpvc/?username=21Afnan&label=PROFILE%20VIEWS&color=FF69B4&style=for-the-badge" alt="Profile views"/>
@@ -22,12 +22,8 @@
   <a href="https://github.com/21Afnan?tab=stars" title="Stars">
     <img src="https://img.shields.io/github/stars/21Afnan?label=STARS&color=FF69B4&style=for-the-badge" alt="Stars"/>
   </a>
-</p>
-
-<!-- My Portfolio -->
-<p align=center>
   <a href="https://www.afnanshoukat.me" title="Portfolio">
-    <img src="https://img.shields.io/badge/My%20Portfolio-afnanshoukat.me-FF69B4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-afnanshoukat.me-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -36,63 +32,67 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
 
-<!-- Streak (pink gradient) -->
+<!-- ======== DYNAMIC GITHUB TROPHIES (Constrained Column Fit) ======== -->
+<h3 align="center">🏆 Live GitHub Achievements & Ranks</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=21Afnan&theme=transparent&border=transparent&ring=FF1493&fire=FF5C8A&currStreakNum=FF69B4&sideNums=FF69B4&sideLabels=FF69B4&currStreakLabel=FF69B4&dates=FFB6C1&stroke=FF1493" alt="GitHub Streak" />
+  <a href="https://github.com/21Afnan">
+    <img src="https://github-profile-trophy.vercel.app/?username=21Afnan&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  </a>
 </p>
 
+<!-- ======== DYNAMIC STREAK & ANIMATED CONTRIBUTION GRAPH ======== -->
+<p align="center">
+  <a href="https://github.com/21Afnan">
+    <img src="https://streak-stats.demolab.com?user=21Afnan&theme=transparent&border=transparent&ring=FF1493&fire=FF5C8A&currStreakNum=FF69B4&sideNums=FF69B4&sideLabels=FF69B4&currStreakLabel=FF69B4&dates=FFB6C1&stroke=FF1493" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/21Afnan">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=21Afnan&bg_color=0D1117&color=FF69B4&line=FF1493&point=FF5C8A&area=true&hide_border=true" width="800" alt="Animated Activity Graph" />
+  </a>
+</p>
 
 <!-- PINK DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
-
 
 ## 💡 About Me
+
 Hi, I’m **Afnan Shoukat**, an aspiring **AI & ML developer** who builds thoughtful, user-centered tools that solve real problems.  
-I love the creative process of turning data and models into products people can use — from health tech to automation. I learn by building: every prototype, demo, and bug fix is a step toward becoming a mentor and a leader in AI.
+I love the creative process of turning data and models into dynamic products people can actually interact with — from health tech and voice automation to real-time industrial monitoring. I learn by building: every prototype, demo, and bug fix is a step toward becoming a mentor and a leader in AI.
 
-- 🎓 Bachelor’s student in Artificial Intelligence  
-- 🧠 Passionate about ML, LLMs, and practical AI systems  
-- 🤝 I enjoy collaborating, mentoring juniors, and sharing knowledge  
-- 🌱 Constantly learning — from Deep Learning architectures to production pipelines
+- 🎓 Bachelor’s student in **Artificial Intelligence** *(Stellar Academic Record: CGPA 3.79 / 4.0)*
+- 🧠 Passionate about **ML, LLMs, Multi-Agent Systems (LangGraph), and Live Serverless Pipelines**
+- 🤝 I enjoy collaborating, mentoring juniors, and sharing knowledge with the global developer community
+- 🌱 Constantly learning — from Deep Learning architectures to autonomous production workflows
 
 <!-- PINK DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
 
-## 🧠 Tech Stack & Tools
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-FF5C8A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-FF77A9?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-FFA6C9?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-FFDCE6?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-FFF0F5?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-FF9DBD?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-FFB7D1?style=for-the-badge&logo=markdown&logoColor=white" />
-</p>
+## 🧠 Dynamic Tech Stack & AI Ecosystem
 
 <p align="center">
-  <!-- ML & Frameworks -->
-  <img src="https://img.shields.io/badge/PyTorch-FF77A9?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF5C8A?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-FFA6C9?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-FFDCE6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-FFCADF?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-FFE1EB?style=for-the-badge&logo=onnx&logoColor=white" />
+  <b>🌟 Core Languages & AI Frameworks</b><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,pytorch,tensorflow,docker,fastapi,git,github,vscode,postgres,mongodb,flutter,dart&perline=14&theme=dark" alt="Dynamic Skills Grid" />
+  </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <!-- Tools & Infra -->
-  <img src="https://img.shields.io/badge/Flutter-FF77A9?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FFA6C9?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-FF5C8A?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-FF8DBA?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-FFD6E5?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-FFB7D1?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-FF9DBD?style=for-the-badge&logo=supabase&logoColor=white" />
+  <!-- Dynamic Shield Badges for Specialized AI Ecosystem -->
+  <img src="https://img.shields.io/badge/LangChain-FF1493?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-FF5C8A?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Deepgram%20STT-FF77A9?style=for-the-badge&logo=waveform&logoColor=white" alt="Deepgram" />
+  <img src="https://img.shields.io/badge/FAISS%20Vector-FFA6C9?style=for-the-badge&logo=facebook&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Hopsworks-FFB7D1?style=for-the-badge&logo=apache&logoColor=white" alt="Hopsworks" />
+  <img src="https://img.shields.io/badge/n8n%20Workflows-FFD6E5?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Supabase-FF9DBD?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 <!-- PINK DIVIDER -->
@@ -100,79 +100,123 @@ I love the creative process of turning data and models into products people can 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Recent Flagship Projects (Top 4 Showcase)
 
-<table>
+> ✨ **Live GitHub Cards & Interactive Previews:** Here are my **Top 4 recent flagship projects**. Each card pulls live dynamic GitHub metrics (`Stars`, `Forks`, `Language Bar`) alongside matching dark/pink visual preview banners!
+
+<table align="center" width="100%">
+  <!-- ROW 1: IntelliViz & AirLyst -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ Surakhsha AI</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/SurakhshaAI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=SurakhshaAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF5C8A&icon_color=FF5C8A&title_color=FF5C8A" alt="Surakhsha AI" />
-        </a>
-      </p>
-      <p align="center">
-        <b>Surakhsha AI</b>, an AI-powered defense control system that detects and flags potential threats in real-time. 🔗 <a href="https://surakhsha-demo.example.com" target="_blank">Live Demo</a>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🏭 IntelliViz (Industrial IoT FYP)</h3>
+      <a href="https://github.com/21Afnan/IntelliViz">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=IntelliViz&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF69B4&icon_color=FF69B4&title_color=FF69B4" width="350" alt="IntelliViz Live Stats" />
+      </a>
+      <br/><br/>
+      <!-- PREVIEW BANNER FOR INTELLIVIZ -->
+      <a href="https://github.com/21Afnan/IntelliViz">
+        <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0D1117&text=%E2%9A%A1+Live+IntelliViz+IoT+%26+Multi-Agent+AI&fontSize=18&fontColor=FF69B4&stroke=FF69B4&strokeWidth=1" width="350" alt="IntelliViz Preview" />
+      </a>
+      <p align="left" style="max-width: 350px;">
+        <br/>
+        • <b>Multi-Agent LangGraph Backend:</b> Real-time CNC machine monitoring across cloud-connected IoT sensors.<br/>
+        • <b>LSTM Deep Learning Engine:</b> Autonomous anomaly detection & Remaining Useful Life (RUL) forecasting before failure occurs.<br/>
+        🔗 <a href="https://github.com/21Afnan/IntelliViz"><b>Explore Repository</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 ApplyMate</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/ApplyMate">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=ApplyMate&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF77A9&icon_color=FF77A9&title_color=FF77A9" alt="ApplyMate" />
-        </a>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🌤️ AirLyst (Pearls AQI Predictor)</h3>
+      <a href="https://github.com/21Afnan/AirLyst">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=AirLyst&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF69B4&icon_color=FF69B4&title_color=FF69B4" width="350" alt="AirLyst Live Stats" />
+      </a>
+      <br/><br/>
+      <!-- PREVIEW BANNER FOR AIRLYST -->
+      <a href="https://github.com/21Afnan/AirLyst">
+        <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0D1117&text=%E2%9A%A1+Live+AirLyst+MLOps+Preview&fontSize=18&fontColor=FF69B4&stroke=FF69B4&strokeWidth=1" width="350" alt="AirLyst Preview" />
+      </a>
+      <p align="left" style="max-width: 350px;">
+        <br/>
+        • <b>Solo Serverless Architecture:</b> Ingests telemetry data via Open-Meteo API into <b>Hopsworks Feature Store</b>.<br/>
+        • <b>Automated CI/CD Retraining:</b> Zero-intervention MLOps via <b>GitHub Actions</b> serving a live Streamlit dashboard.<br/>
+        🔗 <a href="https://github.com/21Afnan/AirLyst"><b>Explore Repository</b></a>
       </p>
-      <p align="center">
-        <b>ApplyMate</b> thar automate job applications end-to-end, designed to save time and boost match quality. 🔗 <a href="https://applymate-demo.example.com" target="_blank">Live Demo</a>
-      </p>
-      
-</td>
+    </td>
   </tr>
 
+  <!-- ROW 2: Surakhsha AI & ApplyMate -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📬 Inbox Guardian (n8n)</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/Inbox_Guardian">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=Inbox_Guardian&theme=dark&hide_border=true&bg_color=0D1117&border_color=FFA6C9&icon_color=FFA6C9&title_color=FFA6C9" alt="Inbox Guardian" />
-        </a>
-      </p>
-      <p align="center">
-        n8n workflows to build <b>Inbox Guardian</b> to automatic routing, labeling, and notification for important emails and alerts.
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🛡️ Surakhsha AI</h3>
+      <a href="https://github.com/21Afnan/SurakhshaAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=SurakhshaAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF5C8A&icon_color=FF5C8A&title_color=FF5C8A" width="350" alt="Surakhsha AI Live Stats" />
+      </a>
+      <br/><br/>
+      <!-- PREVIEW BANNER FOR SURAKHSHA AI -->
+      <a href="https://github.com/21Afnan/SurakhshaAI">
+        <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0D1117&text=%E2%9A%A1+Live+Surakhsha+AI+Threat+Defense&fontSize=18&fontColor=FF5C8A&stroke=FF5C8A&strokeWidth=1" width="350" alt="Surakhsha AI Preview" />
+      </a>
+      <p align="left" style="max-width: 350px;">
+        <br/>
+        • <b>Real-Time Threat Recognition:</b> AI-powered defense control center designed to detect and classify high-risk anomalies in live video feeds.<br/>
+        • <b>Interactive Control UI:</b> Visual bounding boxes, situational awareness, and low-latency critical monitoring.<br/>
+        🔗 <a href="https://github.com/21Afnan/SurakhshaAI"><b>Explore Repository</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💗 CycleSenseAI</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/CycleSenseAI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=CycleSenseAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=FFB7D9&icon_color=FFB7D9&title_color=FFB7D9" alt="CycleSenseAI" />
-        </a>
-      </p>
-      <p align="center">
-        <b>CycleSenseAI</b>, an LSTM-based menstrual cycle predictor with a friendly UI and helpful reminders.
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🤖 ApplyMate</h3>
+      <a href="https://github.com/21Afnan/ApplyMate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=ApplyMate&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF77A9&icon_color=FF77A9&title_color=FF77A9" width="350" alt="ApplyMate Live Stats" />
+      </a>
+      <br/><br/>
+      <!-- PREVIEW BANNER FOR APPLYMATE -->
+      <a href="https://github.com/21Afnan/ApplyMate">
+        <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0D1117&text=%E2%9A%A1+Live+ApplyMate+Job+Automation&fontSize=18&fontColor=FF77A9&stroke=FF77A9&strokeWidth=1" width="350" alt="ApplyMate Preview" />
+      </a>
+      <p align="left" style="max-width: 350px;">
+        <br/>
+        • <b>Smart CV Personalization:</b> Contextually tailors resumes and cover letters using advanced NLP and role-specific templates.<br/>
+        • <b>Automated Orchestration:</b> High-reliability n8n workflows paired with a FastAPI backend to automate applications cleanly.<br/>
+        🔗 <a href="https://github.com/21Afnan/ApplyMate"><b>Explore Repository</b></a>
       </p>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/21Afnan?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-FF77A9?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" /></a>
-</div>
+<!-- ======== DYNAMIC CONTRIBUTION SNAKE ANIMATION ======== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/21Afnan/21Afnan/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</p>
+
+<!-- ======== DYNAMIC LIVE OVERALL STATS & TOP LANGUAGES ======== -->
+<h3 align="center">📊 Live Dynamic GitHub Statistics</h3>
+<p align="center">
+  <a href="https://github.com/21Afnan">
+    <img src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&theme=dark&bg_color=0D1117&border_color=FF69B4&icon_color=FF69B4&title_color=FF69B4&text_color=FFFFFF" width="410" alt="Afnan's GitHub Stats" />
+  </a>
+  <a href="https://github.com/21Afnan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Afnan&layout=compact&theme=dark&bg_color=0D1117&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF" width="340" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/21Afnan?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-FF1493?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
+  </a>
+</p>
 
 <!-- PINK DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
 
-## 🔧 Currently Working On - ApplyMate
+## 🔧 Currently Working On — ApplyMate & IntelliViz
 
 <ul>
-  <li>✨ <b>ApplyMate - AI Job Automation Assistant.</b></li>
-  <li>🔍 <b>Smart CV Personalization</b>, contextual tailoring of resumes & cover letters using NLP and role-specific templates.</li>
-  <li>⚙️ <b>Automated Submission Pipelines</b>, n8n + FastAPI orchestration for automated, reliable submissions.</li>
-  <li>📊 <b>Application Dashboard</b>track statuses, interview invites, and automatic follow-ups.</li>
-  <li>🔐 <b>Privacy-first</b> design, local data processing + encrypted storage of credentials.</li>
-  <li>🎯 <b>Quality-focused</b>, ranking & scoring to prioritize high-fit roles first.</li>
+  <li>✨ <b>ApplyMate — AI Job Automation Assistant:</b> End-to-end intelligent job application assistant automating applications with n8n and FastAPI.</li>
+  <li>🔍 <b>Smart CV Personalization:</b> Contextual tailoring of resumes & cover letters using NLP and role-specific templates.</li>
+  <li>🏭 <b>IntelliViz (Industrial IoT FYP):</b> Scaling LangGraph multi-agent orchestration for CNC failure classification and predictive alerting.</li>
+  <li>📊 <b>Application Dashboard & Tracking:</b> Real-time tracking of application statuses, interview invites, and automated follow-ups.</li>
+  <li>🔐 <b>Privacy-First AI Architecture:</b> Local data processing with encrypted storage of credentials and custom LLM routing.</li>
 </ul>
 
 <!-- PINK DIVIDER -->
@@ -184,13 +228,16 @@ I love the creative process of turning data and models into products people can 
 
 <p align="center">
   <a href="mailto:afnanshoukat35@gmail.com">
-    <img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/afnanshoukat">
-    <img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/21Afnan">
-    <img src="https://img.shields.io/badge/GitHub-21Afnan-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-21Afnan-FF5C8A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.afnanshoukat.me">
+    <img src="https://img.shields.io/badge/Portfolio-afnanshoukat.me-FF77A9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -199,9 +246,9 @@ I love the creative process of turning data and models into products people can 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
 
-<p align="center">✨ “AI isn’t replacing humans, it’s amplifying creativity.” ✨</p>
+<p align="center">✨ <i>“AI isn’t replacing humans — it’s amplifying creativity and building autonomous tools that empower people.”</i> ✨</p>
 
-<!-- Floating Footer Wave -->
+<!-- Dynamic Animated Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=FF69B4" width="100%" alt="pink footer wave"/>
 </p>
