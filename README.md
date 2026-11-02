@@ -99,23 +99,25 @@ Hi, I'm **Afnan Shoukat**, an **AI/ML & Automation Engineer** based in Islamabad
       <h3 align="center">📈 CryptoSight</h3>
       <p align="center">
         <a href="https://github.com/21Afnan/cryptosight">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=cryptosight&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF5C8A&icon_color=FF5C8A&title_color=FF5C8A" alt="CryptoSight" />
+          <img src="https://raw.githubusercontent.com/21Afnan/cryptosight/main/docs/screenshots/Dashboard.png" alt="CryptoSight dashboard" width="100%" />
         </a>
       </p>
       <p align="center">
-        Solo-built <b>quant trading platform</b>: Reddit sentiment (FinBERT), 12 ML signal models, a vectorized backtester (fees, slippage, drawdown) and live Bybit-testnet execution with a full-stack dashboard.
+        Solo-built <b>quant trading platform</b>: Reddit sentiment (FinBERT), 12 ML signal models, a vectorized backtester (fees, slippage, drawdown) and live Bybit-testnet execution with a React dashboard.
       </p>
+      <p align="center"><a href="https://github.com/21Afnan/cryptosight"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🌫️ AirLyst</h3>
       <p align="center">
         <a href="https://github.com/21Afnan/AirLyst">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=AirLyst&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF77A9&icon_color=FF77A9&title_color=FF77A9" alt="AirLyst" />
+          <img src="https://raw.githubusercontent.com/21Afnan/AirLyst/main/assets/ssfg/AeroVibe%20Main%20Dashboard.png" alt="AirLyst dashboard" width="100%" />
         </a>
       </p>
       <p align="center">
-        Serverless <b>MLOps pipeline</b> forecasting Islamabad's AQI 72h ahead. Hopsworks Feature Store, weekly model tournament (LightGBM <b>R² 0.986</b>), GitHub Actions retraining, FastAPI + Next.js with SHAP explanations.
+        Serverless <b>MLOps pipeline</b> forecasting Islamabad's AQI 72h ahead. Hopsworks Feature Store, weekly model tournament (LightGBM <b>R² 0.986</b>), GitHub Actions retraining, SHAP explanations. <a href="https://air-lyst.vercel.app">Live demo</a>.
       </p>
+      <p align="center"><a href="https://github.com/21Afnan/AirLyst"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
     </td>
   </tr>
 
@@ -124,23 +126,25 @@ Hi, I'm **Afnan Shoukat**, an **AI/ML & Automation Engineer** based in Islamabad
       <h3 align="center">🧾 BillSense</h3>
       <p align="center">
         <a href="https://github.com/21Afnan/BillSense">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=BillSense&theme=dark&hide_border=true&bg_color=0D1117&border_color=FFA6C9&icon_color=FFA6C9&title_color=FFA6C9" alt="BillSense" />
+          <img src="https://raw.githubusercontent.com/21Afnan/BillSense/main/assets/img1.png" alt="BillSense screenshot" width="100%" />
         </a>
       </p>
       <p align="center">
-        Decodes <b>K-Electric, LESCO and IESCO bills</b> into structured JSON using local OCR, layout rules and arithmetic checks, then explains charges in plain language. Built for Women Tech Quest 2026.
+        Decodes <b>K-Electric, LESCO and IESCO bills</b> into structured JSON with local OCR, layout rules and arithmetic checks, then answers questions in plain English. Built for Women Tech Quest 2026.
       </p>
+      <p align="center"><a href="https://github.com/21Afnan/BillSense"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎙️ VoiceIQ</h3>
       <p align="center">
         <a href="https://github.com/21Afnan/VoiceIQ">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=VoiceIQ&theme=dark&hide_border=true&bg_color=0D1117&border_color=FFB7D9&icon_color=FFB7D9&title_color=FFB7D9" alt="VoiceIQ" />
+          <img src="https://raw.githubusercontent.com/21Afnan/VoiceIQ/main/ScreenShots_website/frontpage.png" alt="VoiceIQ front page" width="100%" />
         </a>
       </p>
       <p align="center">
-        <b>Voice-only RAG assistant</b>: Deepgram STT, FAISS retrieval, multi-LLM routing (GPT-4 / Gemini / DeepSeek) and spoken answers, served with FastAPI.
+        <b>Voice-only RAG assistant</b>: Deepgram STT, FAISS retrieval, multi-LLM routing (Gemini / DeepSeek / Kimi) and spoken answers, served with FastAPI.
       </p>
+      <p align="center"><a href="https://github.com/21Afnan/VoiceIQ"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
     </td>
   </tr>
 
@@ -149,23 +153,25 @@ Hi, I'm **Afnan Shoukat**, an **AI/ML & Automation Engineer** based in Islamabad
       <h3 align="center">👥 Multi-Role Hiring Automation</h3>
       <p align="center">
         <a href="https://github.com/21Afnan/n8n-multi-role-hiring-automation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=n8n-multi-role-hiring-automation&theme=dark&hide_border=true&bg_color=0D1117&border_color=FF8DBA&icon_color=FF8DBA&title_color=FF8DBA" alt="Hiring Automation" />
+          <img src="https://raw.githubusercontent.com/21Afnan/n8n-multi-role-hiring-automation/main/assets/screenshots/Workflow1.png" alt="Hiring workflow" width="100%" />
         </a>
       </p>
       <p align="center">
-        n8n pipeline that validates and deduplicates applications, grades resumes with AI rubrics (strong / average / weak), then auto-schedules interviews or sends rejections, cutting manual screening by ~85%.
+        n8n pipeline that validates and deduplicates applications, grades resumes with AI (strong / average / weak), then auto-schedules interviews or sends rejections.
       </p>
+      <p align="center"><a href="https://github.com/21Afnan/n8n-multi-role-hiring-automation"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💬 IT CYBX Live Bot</h3>
       <p align="center">
         <a href="https://github.com/21Afnan/itcybx_live_bot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Afnan&repo=itcybx_live_bot&theme=dark&hide_border=true&bg_color=0D1117&border_color=FFCADF&icon_color=FFCADF&title_color=FFCADF" alt="IT CYBX Live Bot" />
+          <img src="https://opengraph.githubassets.com/1da239e2551ce36be42877215a45bed78d8179c170dcc4c136f686dd01c8fa40/21Afnan/itcybx_live_bot" alt="IT CYBX Live Bot" width="100%" />
         </a>
       </p>
       <p align="center">
-        Bilingual (EN/AR) <b>AI agent chatbot</b> for itcybx.co.uk: RAG-based FAQ answering, Calendly meeting booking and team notifications, built with LangGraph, Pinecone and FastAPI.
+        Bilingual (EN/AR) <b>AI sales chatbot</b> for itcybx.co.uk: RAG FAQ answering, lead capture, Calendly booking and team alerts, built with LangGraph, Pinecone and FastAPI.
       </p>
+      <p align="center"><a href="https://github.com/21Afnan/itcybx_live_bot"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
     </td>
   </tr>
 </table>
@@ -189,17 +195,6 @@ Hi, I'm **Afnan Shoukat**, an **AI/ML & Automation Engineer** based in Islamabad
 | [**PakShield_Defence_AI**](https://github.com/21Afnan/PakShield_Defence_AI) | Computer vision and automation for border monitoring and anomaly detection |
 | [**CycleSenseAI**](https://github.com/21Afnan/CycleSenseAI) | LSTM cycle predictor with chatbot and Supabase backend |
 | [**Voice modules (STT / TTS / STS)**](https://github.com/21Afnan/Voice_Module) | Plug-and-play voice APIs built with FastAPI for any chatbot frontend |
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFB6C1" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Afnan&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFB6C1" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
