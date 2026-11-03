@@ -186,15 +186,44 @@ Hi, I'm **Afnan Shoukat**, an **AI/ML & Automation Engineer** based in Islamabad
 
 ## 🧪 More Work
 
-| Project | What it does |
-|---|---|
-| [**TumorSense-AI**](https://github.com/21Afnan/TumorSense-AI) | Lightweight transfer-learning (CNN / ResNet-18) for multi-class brain-tumour MRI classification |
-| [**NeuroAssistAI**](https://github.com/21Afnan/NeuroAssistAI) | MRI tumour classification and glioma-stage prediction to assist neurologists |
-| [**Inbox_Guardian**](https://github.com/21Afnan/Inbox_Guardian) | Local n8n + Gemini agent that classifies email, routes priority items to Discord and trashes junk |
-| [**SOC_Analyst_Advisor**](https://github.com/21Afnan/SOC_Analyst_Advisor) | Local Mistral 7B assistant for threat detection and incident-response playbooks |
-| [**PakShield_Defence_AI**](https://github.com/21Afnan/PakShield_Defence_AI) | Computer vision and automation for border monitoring and anomaly detection |
-| [**CycleSenseAI**](https://github.com/21Afnan/CycleSenseAI) | LSTM cycle predictor with chatbot and Supabase backend |
-| [**Voice modules (STT / TTS / STS)**](https://github.com/21Afnan/Voice_Module) | Plug-and-play voice APIs built with FastAPI for any chatbot frontend |
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/21Afnan/TumorSense-AI"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF5C8A,100:FFB7D9&text=TumorSense-AI&fontColor=ffffff&fontSize=26&desc=Brain%20MRI%20classification&descSize=15&descAlignY=68&animation=fadeIn" alt="TumorSense-AI" width="100%"/></a>
+      <br/><sub>CNN · ResNet-18 · Transfer learning</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/21Afnan/NeuroAssistAI"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF69B4,100:FF9DBD&text=NeuroAssistAI&fontColor=ffffff&fontSize=26&desc=Tumour%20%2B%20glioma-stage%20AI&descSize=15&descAlignY=68&animation=fadeIn" alt="NeuroAssistAI" width="100%"/></a>
+      <br/><sub>Deep learning · Medical imaging</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/21Afnan/Inbox_Guardian"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF77A9,100:FFCADF&text=Inbox%20Guardian&fontColor=ffffff&fontSize=26&desc=AI%20email%20triage%20agent&descSize=15&descAlignY=68&animation=fadeIn" alt="Inbox Guardian" width="100%"/></a>
+      <br/><sub>n8n · Gemini · Discord</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/21Afnan/SOC_Analyst_Advisor"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF1493,100:FF8DBA&text=SOC%20Advisor&fontColor=ffffff&fontSize=26&desc=Cybersecurity%20copilot&descSize=15&descAlignY=68&animation=fadeIn" alt="SOC Advisor" width="100%"/></a>
+      <br/><sub>Mistral 7B · Incident response</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/21Afnan/PakShield_Defence_AI"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF5C8A,100:FFA6C9&text=PakShield%20AI&fontColor=ffffff&fontSize=26&desc=Border%20monitoring%20vision&descSize=15&descAlignY=68&animation=fadeIn" alt="PakShield AI" width="100%"/></a>
+      <br/><sub>Computer vision · Threat intel</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/21Afnan/CycleSenseAI"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF69B4,100:FFB7D1&text=CycleSenseAI&fontColor=ffffff&fontSize=26&desc=LSTM%20cycle%20predictor&descSize=15&descAlignY=68&animation=fadeIn" alt="CycleSenseAI" width="100%"/></a>
+      <br/><sub>LSTM · Supabase · Chatbot</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/21Afnan/Voice_Module"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF77A9,100:FF9DBD&text=Voice%20Modules&fontColor=ffffff&fontSize=26&desc=STT%20%C2%B7%20TTS%20%C2%B7%20STS%20APIs&descSize=15&descAlignY=68&animation=fadeIn" alt="Voice Modules" width="100%"/></a>
+      <br/><sub>FastAPI · OpenAI · Real-time</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/21Afnan?tab=repositories"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF1493,100:FFB6C1&text=All%20Repositories&fontColor=ffffff&fontSize=26&desc=Browse%20everything&descSize=15&descAlignY=68&animation=fadeIn" alt="All Repositories" width="100%"/></a>
+      <br/><sub>github.com/21Afnan</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
