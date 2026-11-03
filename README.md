@@ -1,38 +1,22 @@
 <!-- ======== TOP WAVE HEADER ======== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Afnan%20Shoukat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=FF69B4&v=12" width="100%" alt="Afnan Shoukat"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:FF1493,100:FF69B4&v=12" width="100%" alt="header wave"/>
 </p>
 
-<!-- ======== TYPING LINE ======== -->
+<!-- ======== HERO ======== -->
+<p align="center">
+  <img src="assets/hero.svg" alt="Afnan Shoukat - AI Lead Engineer @ IT CYBX" width="100%"/>
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=AI+Lead+Engineer+%40+IT+CYBX;AI+Agents+%26+Chatbots+%7C+n8n+Workflow+Automation;LLM%2C+RAG+%26+Agentic+Systems;FastAPI+%7C+MLOps+%7C+Voice+AI" alt="Animated typing lines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=AI+Agents+%26+Chatbots+%7C+n8n+Workflow+Automation;LLM%2C+RAG+%26+Agentic+Systems;FastAPI+%7C+MLOps+%7C+Voice+AI" alt="Animated typing lines" />
 </div>
 
-<!-- ======== BADGES ======== -->
 <p align="center">
-  <a href="https://github.com/21Afnan" title="Profile views">
-    <img src="https://komarev.com/ghpvc/?username=21Afnan&label=PROFILE%20VIEWS&color=FF69B4&style=for-the-badge" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/21Afnan?tab=followers" title="Followers">
-    <img src="https://img.shields.io/github/followers/21Afnan?label=FOLLOWERS&color=FF69B4&style=for-the-badge" alt="Followers"/>
-  </a>
-  <a href="https://github.com/21Afnan?tab=repositories" title="Repositories">
-    <img src="https://img.shields.io/badge/PUBLIC%20REPOS-18-FF69B4?style=for-the-badge" alt="Repos"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://afnanshoukat.vercel.app" title="Portfolio">
-    <img src="https://img.shields.io/badge/My%20Portfolio-afnanshoukat.vercel.app-FF69B4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=21Afnan&theme=transparent&border=transparent&ring=FF1493&fire=FF5C8A&currStreakNum=FF69B4&sideNums=FF69B4&sideLabels=FF69B4&currStreakLabel=FF69B4&dates=FFB6C1&stroke=FF1493" alt="GitHub Streak" />
+  <a href="https://github.com/21Afnan?tab=followers"><img src="https://img.shields.io/github/followers/21Afnan?label=FOLLOWERS&color=FF69B4&labelColor=1a0d2b&style=for-the-badge" alt="Followers"/></a>
+  <a href="https://github.com/21Afnan?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20REPOS-18-FF69B4?labelColor=1a0d2b&style=for-the-badge" alt="Repos"/></a>
+  <a href="https://afnanshoukat.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-afnanshoukat.vercel.app-FF69B4?labelColor=1a0d2b&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/afnanshoukat"><img src="https://img.shields.io/badge/LINKEDIN-Afnan%20Shoukat-FF69B4?labelColor=1a0d2b&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
@@ -49,49 +33,23 @@ Hi, I'm **Afnan Shoukat**, an **AI Lead Engineer** based in Islamabad. I design 
 - 🌱 Currently focused on making AI prototypes **production-ready**: validation, fallbacks, monitoring and guardrails
 
 <p align="center">
+  <img src="assets/agent_card.svg" alt="Agent profile: focus areas and learning curve" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
 
 ## 🧠 Tech Stack & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FF5C8A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-FF77A9?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-FFA6C9?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-FF9DBD?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-FF77A9?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-FF5C8A?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FFA6C9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LightGBM-FF8DBA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SHAP-FFB7D1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-FFCADF?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-FF5C8A?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF77A9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-FFA6C9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-FF9DBD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pinecone-FFB7D1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n-FF8DBA?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-FF8DBA?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-FF5C8A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-FF77A9?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-FFA6C9?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-FF9DBD?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hopsworks-FFB7D1?style=for-the-badge" />
+  <img src="assets/tools.svg" alt="Tools I deploy" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Featured Missions
 
 <table>
   <tr>
@@ -184,46 +142,17 @@ Hi, I'm **Afnan Shoukat**, an **AI Lead Engineer** based in Islamabad. I design 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
 
-## 🧪 More Work
+## 🧪 Side Quests
 
-<table>
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/TumorSense-AI"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=TumorSense-AI&fontColor=ffffff&fontSize=30&desc=Brain%20MRI%20classification&descSize=18&descAlignY=70&animation=fadeIn" alt="TumorSense-AI" width="100%"/></a>
-      <br/><sub>CNN · ResNet-18 · Transfer learning</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/NeuroAssistAI"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=NeuroAssistAI&fontColor=ffffff&fontSize=30&desc=Tumour%20%2B%20glioma-stage%20AI&descSize=18&descAlignY=70&animation=fadeIn" alt="NeuroAssistAI" width="100%"/></a>
-      <br/><sub>Deep learning · Medical imaging</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/Inbox_Guardian"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=Inbox%20Guardian&fontColor=ffffff&fontSize=30&desc=AI%20email%20triage%20agent&descSize=18&descAlignY=70&animation=fadeIn" alt="Inbox Guardian" width="100%"/></a>
-      <br/><sub>n8n · Gemini · Discord</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/SOC_Analyst_Advisor"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=SOC%20Advisor&fontColor=ffffff&fontSize=30&desc=Cybersecurity%20copilot&descSize=18&descAlignY=70&animation=fadeIn" alt="SOC Advisor" width="100%"/></a>
-      <br/><sub>Mistral 7B · Incident response</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/PakShield_Defence_AI"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=PakShield%20AI&fontColor=ffffff&fontSize=30&desc=Border%20monitoring%20vision&descSize=18&descAlignY=70&animation=fadeIn" alt="PakShield AI" width="100%"/></a>
-      <br/><sub>Computer vision · Threat intel</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/CycleSenseAI"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=CycleSenseAI&fontColor=ffffff&fontSize=30&desc=LSTM%20cycle%20predictor&descSize=18&descAlignY=70&animation=fadeIn" alt="CycleSenseAI" width="100%"/></a>
-      <br/><sub>LSTM · Supabase · Chatbot</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/Voice_Module"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=Voice%20Modules&fontColor=ffffff&fontSize=30&desc=STT%20%C2%B7%20TTS%20%C2%B7%20STS%20APIs&descSize=18&descAlignY=70&animation=fadeIn" alt="Voice Modules" width="100%"/></a>
-      <br/><sub>FastAPI · OpenAI · Real-time</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan?tab=repositories"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=All%20Repositories&fontColor=ffffff&fontSize=30&desc=Browse%20everything&descSize=18&descAlignY=70&animation=fadeIn" alt="All Repositories" width="100%"/></a>
-      <br/><sub>github.com/21Afnan</sub>
-    </td>
-  </tr>
-</table>
+| Mission | What it does | Stack | Repo |
+|---|---|---|---|
+| **TumorSense-AI** | Brain MRI tumour classification | CNN · ResNet-18 · Transfer learning | [Open](https://github.com/21Afnan/TumorSense-AI) |
+| **NeuroAssistAI** | Tumour + glioma-stage detection | Deep learning · Medical imaging | [Open](https://github.com/21Afnan/NeuroAssistAI) |
+| **Inbox Guardian** | AI email triage agent with Discord alerts | n8n · Gemini · Discord | [Open](https://github.com/21Afnan/Inbox_Guardian) |
+| **SOC Advisor** | Cybersecurity incident-response copilot | Mistral 7B · RAG | [Open](https://github.com/21Afnan/SOC_Analyst_Advisor) |
+| **PakShield AI** | Border monitoring and threat intel | Computer vision · Threat intel | [Open](https://github.com/21Afnan/PakShield_Defence_AI) |
+| **CycleSenseAI** | Cycle prediction with a health chatbot | LSTM · Supabase · Chatbot | [Open](https://github.com/21Afnan/CycleSenseAI) |
+| **Voice Modules** | STT, TTS and speech-to-speech APIs | FastAPI · OpenAI · Real-time | [Open](https://github.com/21Afnan/Voice_Module) |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
@@ -232,15 +161,13 @@ Hi, I'm **Afnan Shoukat**, an **AI Lead Engineer** based in Islamabad. I design 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:afnanshoukat35@gmail.com">
-    <img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/afnanshoukat">
-    <img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://afnanshoukat.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-afnanshoukat.vercel.app-FF69B4?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+  <img src="assets/cta.svg" alt="Let's build something agentic" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="mailto:afnanshoukat35@gmail.com"><img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-FF69B4?labelColor=1a0d2b&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/afnanshoukat"><img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-FF69B4?labelColor=1a0d2b&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://afnanshoukat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-afnanshoukat.vercel.app-FF69B4?labelColor=1a0d2b&style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -250,5 +177,5 @@ Hi, I'm **Afnan Shoukat**, an **AI Lead Engineer** based in Islamabad. I design 
 <p align="center">✨ "AI isn't replacing humans, it's amplifying creativity." ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=FF69B4" width="100%" alt="pink footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF69B4,100:FF1493" width="100%" alt="footer wave"/>
 </p>

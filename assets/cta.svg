@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d0816"/><stop offset="1" stop-color="#1a0d2b"/>
+  </linearGradient>
+  <linearGradient id="pk" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FF1493"/><stop offset="1" stop-color="#FF69B4"/>
+  </linearGradient>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="#FF69B4" stroke-opacity=".06"/>
+  </pattern>
+</defs><rect width="900" height="120" rx="18" fill="url(#bg)"/><rect width="900" height="120" rx="18" fill="url(#grid)"/><rect x="1" y="1" width="898" height="118" rx="18" fill="none" stroke="url(#pk)" stroke-opacity=".55" stroke-width="1.5"/><text x="450" y="52" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="url(#pk)" filter="url(#glow)">Let's build something agentic.</text><text x="450" y="82" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#9c8aa8">agents · automation · production-grade AI</text><circle r="4" fill="#FF69B4" filter="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite" path="M 20,100 L 880,100"/></circle></svg>
