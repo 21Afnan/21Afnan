@@ -5,7 +5,7 @@
 
 <!-- ======== TYPING LINE ======== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;AI+Automation+Engineer+%40+IT+CYBX;LLM%2C+RAG+%26+Agentic+Systems;MLOps+%7C+Quant+ML+%7C+Voice+AI" alt="Animated typing lines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=AI+Lead+Engineer+%40+IT+CYBX;AI+Agents+%26+Chatbots+%7C+n8n+Workflow+Automation;LLM%2C+RAG+%26+Agentic+Systems;FastAPI+%7C+MLOps+%7C+Voice+AI" alt="Animated typing lines" />
 </div>
 
 <!-- ======== BADGES ======== -->
@@ -40,9 +40,9 @@
 </p>
 
 ## 💡 About Me
-Hi, I'm **Afnan Shoukat**, an **AI/ML & Automation Engineer** based in Islamabad. I design and ship end-to-end AI systems: ML pipelines, LLM/RAG agents, voice AI and business-workflow automation, from data ingestion to a live dashboard.
+Hi, I'm **Afnan Shoukat**, an **AI Lead Engineer** based in Islamabad. I design and ship end-to-end AI systems: ML pipelines, LLM/RAG agents, voice AI and business-workflow automation, from data ingestion to a live dashboard.
 
-- 🏢 **AI Automation Engineer at [IT CYBX](https://itcybx.co.uk)**: agents, chatbots and AI-integrated systems that remove repetitive admin work for growing teams
+- 🏢 **AI Lead Engineer at [IT CYBX](https://itcybx.co.uk)**: agents, chatbots and AI-integrated systems that remove repetitive admin work for growing teams
 - 🎓 Final-year **BS Artificial Intelligence** student at NUML (CGPA 3.79 / 4.0)
 - 💼 Interned at **NeuroG.AI** (quant ML), **10Pearls Pakistan** (MLOps) and **Prudential Solutions** (conversational AI)
 - 🤝 I mentor juniors in AI automation (Python, LangChain, LangGraph, n8n)
