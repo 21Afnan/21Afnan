@@ -37,6 +37,10 @@ Hi, I'm **Afnan Shoukat**, an **AI Lead Engineer** based in Islamabad. I design 
 </p>
 
 <p align="center">
+  <img src="assets/contrib3d.svg" alt="3D isometric contribution graph" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" width="100%" alt="pink line"/>
 </p>
 
