@@ -22,8 +22,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.afnanshoukat.me" title="Portfolio">
-    <img src="https://img.shields.io/badge/My%20Portfolio-afnanshoukat.me-FF69B4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  <a href="https://afnanshoukat.vercel.app" title="Portfolio">
+    <img src="https://img.shields.io/badge/My%20Portfolio-afnanshoukat.vercel.app-FF69B4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -189,37 +189,37 @@ Hi, I'm **Afnan Shoukat**, an **AI/ML & Automation Engineer** based in Islamabad
 <table>
   <tr>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/TumorSense-AI"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF5C8A,100:FFB7D9&text=TumorSense-AI&fontColor=ffffff&fontSize=26&desc=Brain%20MRI%20classification&descSize=15&descAlignY=68&animation=fadeIn" alt="TumorSense-AI" width="100%"/></a>
+      <a href="https://github.com/21Afnan/TumorSense-AI"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=TumorSense-AI&fontColor=ffffff&fontSize=30&desc=Brain%20MRI%20classification&descSize=18&descAlignY=70&animation=fadeIn" alt="TumorSense-AI" width="100%"/></a>
       <br/><sub>CNN · ResNet-18 · Transfer learning</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/NeuroAssistAI"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF69B4,100:FF9DBD&text=NeuroAssistAI&fontColor=ffffff&fontSize=26&desc=Tumour%20%2B%20glioma-stage%20AI&descSize=15&descAlignY=68&animation=fadeIn" alt="NeuroAssistAI" width="100%"/></a>
+      <a href="https://github.com/21Afnan/NeuroAssistAI"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=NeuroAssistAI&fontColor=ffffff&fontSize=30&desc=Tumour%20%2B%20glioma-stage%20AI&descSize=18&descAlignY=70&animation=fadeIn" alt="NeuroAssistAI" width="100%"/></a>
       <br/><sub>Deep learning · Medical imaging</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/Inbox_Guardian"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF77A9,100:FFCADF&text=Inbox%20Guardian&fontColor=ffffff&fontSize=26&desc=AI%20email%20triage%20agent&descSize=15&descAlignY=68&animation=fadeIn" alt="Inbox Guardian" width="100%"/></a>
+      <a href="https://github.com/21Afnan/Inbox_Guardian"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=Inbox%20Guardian&fontColor=ffffff&fontSize=30&desc=AI%20email%20triage%20agent&descSize=18&descAlignY=70&animation=fadeIn" alt="Inbox Guardian" width="100%"/></a>
       <br/><sub>n8n · Gemini · Discord</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/SOC_Analyst_Advisor"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF1493,100:FF8DBA&text=SOC%20Advisor&fontColor=ffffff&fontSize=26&desc=Cybersecurity%20copilot&descSize=15&descAlignY=68&animation=fadeIn" alt="SOC Advisor" width="100%"/></a>
+      <a href="https://github.com/21Afnan/SOC_Analyst_Advisor"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=SOC%20Advisor&fontColor=ffffff&fontSize=30&desc=Cybersecurity%20copilot&descSize=18&descAlignY=70&animation=fadeIn" alt="SOC Advisor" width="100%"/></a>
       <br/><sub>Mistral 7B · Incident response</sub>
     </td>
   </tr>
   <tr>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/PakShield_Defence_AI"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF5C8A,100:FFA6C9&text=PakShield%20AI&fontColor=ffffff&fontSize=26&desc=Border%20monitoring%20vision&descSize=15&descAlignY=68&animation=fadeIn" alt="PakShield AI" width="100%"/></a>
+      <a href="https://github.com/21Afnan/PakShield_Defence_AI"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=PakShield%20AI&fontColor=ffffff&fontSize=30&desc=Border%20monitoring%20vision&descSize=18&descAlignY=70&animation=fadeIn" alt="PakShield AI" width="100%"/></a>
       <br/><sub>Computer vision · Threat intel</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/CycleSenseAI"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF69B4,100:FFB7D1&text=CycleSenseAI&fontColor=ffffff&fontSize=26&desc=LSTM%20cycle%20predictor&descSize=15&descAlignY=68&animation=fadeIn" alt="CycleSenseAI" width="100%"/></a>
+      <a href="https://github.com/21Afnan/CycleSenseAI"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=CycleSenseAI&fontColor=ffffff&fontSize=30&desc=LSTM%20cycle%20predictor&descSize=18&descAlignY=70&animation=fadeIn" alt="CycleSenseAI" width="100%"/></a>
       <br/><sub>LSTM · Supabase · Chatbot</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan/Voice_Module"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF77A9,100:FF9DBD&text=Voice%20Modules&fontColor=ffffff&fontSize=26&desc=STT%20%C2%B7%20TTS%20%C2%B7%20STS%20APIs&descSize=15&descAlignY=68&animation=fadeIn" alt="Voice Modules" width="100%"/></a>
+      <a href="https://github.com/21Afnan/Voice_Module"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=Voice%20Modules&fontColor=ffffff&fontSize=30&desc=STT%20%C2%B7%20TTS%20%C2%B7%20STS%20APIs&descSize=18&descAlignY=70&animation=fadeIn" alt="Voice Modules" width="100%"/></a>
       <br/><sub>FastAPI · OpenAI · Real-time</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/21Afnan?tab=repositories"><img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:FF1493,100:FFB6C1&text=All%20Repositories&fontColor=ffffff&fontSize=26&desc=Browse%20everything&descSize=15&descAlignY=68&animation=fadeIn" alt="All Repositories" width="100%"/></a>
+      <a href="https://github.com/21Afnan?tab=repositories"><img src="https://capsule-render.vercel.app/api?type=rounded&width=320&height=120&color=0:C2185B,100:FF4D94&text=All%20Repositories&fontColor=ffffff&fontSize=30&desc=Browse%20everything&descSize=18&descAlignY=70&animation=fadeIn" alt="All Repositories" width="100%"/></a>
       <br/><sub>github.com/21Afnan</sub>
     </td>
   </tr>
@@ -238,8 +238,8 @@ Hi, I'm **Afnan Shoukat**, an **AI/ML & Automation Engineer** based in Islamabad
   <a href="https://linkedin.com/in/afnanshoukat">
     <img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.afnanshoukat.me">
-    <img src="https://img.shields.io/badge/Portfolio-afnanshoukat.me-FF69B4?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://afnanshoukat.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-afnanshoukat.vercel.app-FF69B4?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
