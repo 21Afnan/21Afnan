@@ -8,6 +8,14 @@
   <a href="mailto:afnanshoukat35@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-FF69B4?labelColor=1a0d2b&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<p align="center">
+  <a href="#about"><b>About</b></a> ·
+  <a href="#what-i-build"><b>What I build</b></a> ·
+  <a href="#featured-projects"><b>Projects</b></a> ·
+  <a href="#experience--education"><b>Experience</b></a> ·
+  <a href="#work-with-me"><b>Contact</b></a>
+</p>
+
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## About
@@ -15,6 +23,12 @@
 I'm an AI Lead Engineer at [IT CYBX](https://itcybx.co.uk) in Islamabad and a final-year BS Artificial Intelligence student at NUML. I got into AI through ML projects and kept going until it became client work: today I build the systems that take repetitive admin off small teams, and I care most about the unglamorous part, making them keep working after the demo.
 
 My background is a mix of research-style ML (quant trading, time-series forecasting, medical imaging) and applied automation (agents, chatbots, n8n workflows, voice AI). I like owning a project from data to dashboard.
+
+**Right now**
+
+- Building agents, chatbots and automation for clients at IT CYBX
+- Final-year BS AI at NUML (graduating 2027), alongside data science and MLOps practice
+- Open to AI agent, chatbot and workflow-automation projects
 
 ## What I build
 
