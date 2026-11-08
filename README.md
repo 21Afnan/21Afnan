@@ -1,197 +1,246 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Afnan Shoukat - AI Lead Engineer @ IT CYBX" width="100%"/>
-</p>
+<!-- ====================== HEADER ====================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Afnan%20Shoukat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Applied%20ML&descSize=16&descAlignY=56&color=FF69B4" alt="Afnan Shoukat" />
 
-<p align="center">
-  <a href="https://afnanshoukat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-afnanshoukat.vercel.app-FF69B4?labelColor=1a0d2b&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/afnanshoukat"><img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-FF69B4?labelColor=1a0d2b&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:afnanshoukat35@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-FF69B4?labelColor=1a0d2b&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="#about"><b>About</b></a> ·
-  <a href="#what-i-build"><b>What I build</b></a> ·
-  <a href="#featured-projects"><b>Projects</b></a> ·
-  <a href="#experience--education"><b>Experience</b></a> ·
-  <a href="#work-with-me"><b>Contact</b></a>
-</p>
+<a href="https://github.com/21Afnan">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=FF69B4&center=true&vCenter=true&width=820&lines=AI+Lead+Engineer+%40+IT+CYBX;Final-year+BS+Artificial+Intelligence+%E2%80%A2+CGPA+3.79%2F4.00;Research%3A+Trustworthy+Agentic+AI+%26+Multi-Agent+Systems;I+build+LLM+agents+that+work+beyond+the+notebook" alt="Typing banner" />
+</a>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
-## About
-
-I'm an AI Lead Engineer at [IT CYBX](https://itcybx.co.uk) in Islamabad and a final-year BS Artificial Intelligence student at NUML. I got into AI through ML projects and kept going until it became client work: today I build the systems that take repetitive admin off small teams, and I care most about the unglamorous part, making them keep working after the demo.
-
-My background is a mix of research-style ML (quant trading, time-series forecasting, medical imaging) and applied automation (agents, chatbots, n8n workflows, voice AI). I like owning a project from data to dashboard.
-
-**Right now**
-
-- Building agents, chatbots and automation for clients at IT CYBX
-- Final-year BS AI at NUML (graduating 2027), alongside data science and MLOps practice
-- Open to AI agent, chatbot and workflow-automation projects
-
-## What I build
-
-| | What it covers | Typical use |
-|---|---|---|
-| **AI agents & chatbots** | LangGraph / LangChain agents, RAG over company knowledge, human hand-off | Support, lead capture, booking and scheduling |
-| **Business automation** | n8n workflows, API and backend integrations, Google Sheets / Drive pipelines | Applications, candidate screening, follow-ups, spreadsheet updates |
-| **Voice AI** | Speech-to-text, retrieval, multi-LLM routing, spoken answers | Voice-first question answering over website content |
-| **Applied ML & MLOps** | Forecasting, NLP, computer vision, feature stores, scheduled retraining | Predictions and dashboards that stay current without manual work |
-
-## How I work
-
-Prototypes are easy; production is where AI systems fail. Before I call something done I check:
-
-- **Failure paths:** retries, fallbacks and what happens when an upstream API is down
-- **Validation:** inputs and model outputs are checked, not trusted (hallucinations, malformed data, duplicates)
-- **Evaluation:** honest backtests and held-out data. On CryptoSight I found and removed look-ahead bias in my own strategy evaluation
-- **Operations:** monitoring, cost and latency at scale, and guardrails around anything customer-facing
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">CryptoSight</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/cryptosight">
-          <img src="https://raw.githubusercontent.com/21Afnan/cryptosight/main/docs/screenshots/Dashboard.png" alt="CryptoSight dashboard" width="100%" />
-        </a>
-      </p>
-      <p>
-        Quant trading platform built solo during the NeuroG.AI internship. Reddit sentiment (FinBERT) and technical indicators feed 12 ML signal models. A vectorized backtester accounts for fees, slippage, PnL and drawdown, and trades execute on Bybit testnet from a live dashboard.
-      </p>
-      <p align="center"><sub><b>FinBERT · ML signals · Backtesting · Bybit · React</b></sub></p>
-      <p align="center"><a href="https://github.com/21Afnan/cryptosight"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">AirLyst</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/AirLyst">
-          <img src="https://raw.githubusercontent.com/21Afnan/AirLyst/main/assets/ssfg/AeroVibe%20Main%20Dashboard.png" alt="AirLyst dashboard" width="100%" />
-        </a>
-      </p>
-      <p>
-        Forecasts Islamabad's air quality 72 hours ahead. A daily pipeline ingests weather and AQI data into a Hopsworks feature store, a weekly tournament (Ridge, Random Forest, XGBoost, LightGBM) promotes the best model (<b>R² 0.986</b>), and SHAP explanations are rewritten in plain language with Gemini. <a href="https://air-lyst.vercel.app">Live demo</a>.
-      </p>
-      <p align="center"><sub><b>Hopsworks · LightGBM · SHAP · FastAPI · Next.js · GitHub Actions</b></sub></p>
-      <p align="center"><a href="https://github.com/21Afnan/AirLyst"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Multi-Role Hiring Automation</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/n8n-multi-role-hiring-automation">
-          <img src="https://raw.githubusercontent.com/21Afnan/n8n-multi-role-hiring-automation/main/assets/screenshots/Workflow1.png" alt="Hiring workflow" width="100%" />
-        </a>
-      </p>
-      <p>
-        Screens applicants across roles (software engineering, business development). Reads applications from Google Sheets, validates and deduplicates them, grades resumes from Drive with AI (strong / average / weak), then schedules interviews, notifies hiring managers or sends rejections and syncs status to a master sheet. Self-reported result: about 85% less manual screening time.
-      </p>
-      <p align="center"><sub><b>n8n · Google Sheets / Drive · LLM grading</b></sub></p>
-      <p align="center"><a href="https://github.com/21Afnan/n8n-multi-role-hiring-automation"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">IT CYBX Live Bot</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/itcybx_live_bot">
-          <img src="https://opengraph.githubassets.com/1da239e2551ce36be42877215a45bed78d8179c170dcc4c136f686dd01c8fa40/21Afnan/itcybx_live_bot" alt="IT CYBX Live Bot" width="100%" />
-        </a>
-      </p>
-      <p>
-        Bilingual (English / Arabic) sales chatbot running on itcybx.co.uk. Answers FAQs from a RAG knowledge base, captures leads, books calls through Calendly and alerts the team.
-      </p>
-      <p align="center"><sub><b>LangGraph · Pinecone · FastAPI</b></sub></p>
-      <p align="center"><a href="https://github.com/21Afnan/itcybx_live_bot"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">VoiceIQ</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/VoiceIQ">
-          <img src="https://raw.githubusercontent.com/21Afnan/VoiceIQ/main/ScreenShots_website/frontpage.png" alt="VoiceIQ front page" width="100%" />
-        </a>
-      </p>
-      <p>
-        Voice-first assistant that answers questions from a website's content. Deepgram transcribes the question, FAISS retrieves context, several LLMs (Gemini, DeepSeek, Kimi) answer in parallel, and the reply comes back as text and audio.
-      </p>
-      <p align="center"><sub><b>Deepgram · FAISS · multi-LLM routing · FastAPI</b></sub></p>
-      <p align="center"><a href="https://github.com/21Afnan/VoiceIQ"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">BillSense</h3>
-      <p align="center">
-        <a href="https://github.com/21Afnan/BillSense">
-          <img src="https://raw.githubusercontent.com/21Afnan/BillSense/main/assets/img1.png" alt="BillSense screenshot" width="100%" />
-        </a>
-      </p>
-      <p>
-        Explains Pakistani utility bills (K-Electric, LESCO, IESCO). Local OCR, layout rules and arithmetic checks turn a bill into structured JSON, so users can inspect charges and taxes and ask follow-up questions in plain language. Built for the "Build with AI" track at Women Tech Quest 2026 (10Pearls, FAST-NUCES).
-      </p>
-      <p align="center"><sub><b>OCR · Rule-based validation · LLM Q&amp;A</b></sub></p>
-      <p align="center"><a href="https://github.com/21Afnan/BillSense"><img src="https://img.shields.io/badge/View%20Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a></p>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>More projects (7)</b></summary>
 <br/>
 
-| Project | What it does | Stack | Repo |
-|---|---|---|---|
-| **Inbox Guardian** | Local email triage: classifies mail, sends important items to Discord, cleans junk from Gmail | n8n · Gemini · Docker | [Open](https://github.com/21Afnan/Inbox_Guardian) |
-| **SOC Analyst Advisor** | Cybersecurity copilot for threat detection, incident response and playbooks, running a local model | Mistral 7B | [Open](https://github.com/21Afnan/SOC_Analyst_Advisor) |
-| **NeuroAssistAI** | Brain-tumour classification from MRI and glioma-stage prediction from gene-mutation data, to assist neurologists | Deep learning | [Open](https://github.com/21Afnan/NeuroAssistAI) |
-| **TumorSense-AI** | Brain MRI tumour classifier | CNN · ResNet-18 | [Open](https://github.com/21Afnan/TumorSense-AI) |
-| **CycleSenseAI** | Cycle-date prediction with an embedded chatbot and Supabase auth | LSTM · Supabase | [Open](https://github.com/21Afnan/CycleSenseAI) |
-| **PakShield AI** | Border-monitoring computer vision and threat intelligence | Computer vision | [Open](https://github.com/21Afnan/PakShield_Defence_AI) |
-| **Voice Modules** | Reusable speech-to-text, text-to-speech and speech-to-speech APIs | FastAPI · OpenAI | [Open](https://github.com/21Afnan/Voice_Module) |
+<a href="https://www.afnanshoukat.me"><img src="https://img.shields.io/badge/Portfolio-afnanshoukat.me-FF69B4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/afnanshoukat"><img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-FF77A9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:afnanshoukat35@gmail.com"><img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-FFA6C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/21Afnan?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-FFB7D1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=21Afnan&label=PROFILE%20VIEWS&color=FF69B4&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/21Afnan?label=FOLLOWERS&color=FF69B4&style=flat-square" alt="Followers" />
+<img src="https://img.shields.io/github/stars/21Afnan?label=STARS&color=FF69B4&style=flat-square" alt="Stars" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" alt="" />
+
+<!-- ====================== ABOUT ====================== -->
+## About
+
+I am an **AI engineer** and final-year **BS Artificial Intelligence** student at NUML, Islamabad, who builds LLM agents and machine learning systems that run in production, not just in notebooks.
+
+Currently **AI Lead Engineer at IT CYBX** (UK-based digital agency), shipping bilingual RAG chatbots and lead-generation automation for real users, after three AI/ML internships at **NeuroG.AI**, **10Pearls** and **Prudential Solutions**.
+
+My research focus is **trustworthy agentic AI**: multi-agent systems that plan, act, and explain their decisions, with applications in industrial monitoring and cybersecurity. I am currently seeking a **fully funded MS in Computer Science** to turn this engineering experience into rigorous, supervised research on reliable autonomous agents.
+
+```yaml
+name:       Afnan Shoukat
+role:       AI Lead Engineer @ IT CYBX
+education:  BS Artificial Intelligence, NUML Islamabad (Feb 2023 – Jan 2027)
+cgpa:       3.79 / 4.00
+coursework: Deep Learning (A+) · NLP (A+) · Neural Networks (A+) · ML (A)
+            Knowledge Representation & Reasoning (A) · Algorithms (A)
+            Reinforcement Learning (in progress)
+focus:      agentic AI · multi-agent systems · RL · explainable AI
+seeking:    fully funded MS in Computer Science / AI
+location:   Islamabad, Pakistan
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" alt="" />
+
+<!-- ====================== RESEARCH ====================== -->
+## Research Interests
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Agentic%20AI%20%26%20Multi--Agent%20Systems-FF69B4?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-FF77A9?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Trustworthy%20%26%20Explainable%20AI-FFA6C9?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/AI%20for%20Cybersecurity-FFB7D1?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/LLM--Driven%20Autonomous%20Systems-FFCADF?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Applied%20ML%20%26%20MLOps-FFD6E5?style=for-the-badge" alt="" />
+
+</div>
+
+> My current work asks a single question: **how do we make autonomous agents whose decisions can be verified?**
+> IntelliViz, my final-year project, answers it with a Validator agent that checks every claim an Analyst agent makes against the underlying industrial data before an operator ever sees it.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" alt="" />
+
+<!-- ====================== EXPERIENCE ====================== -->
+## Experience
+
+| Period | Role | Organisation |
+| :--- | :--- | :--- |
+| **Aug 2026 – Present** | AI Lead Engineer | IT CYBX — UK digital agency (Remote) |
+| **Jun 2026 – Jul 2026** | AI/ML Engineer Intern | NeuroG.AI — Neuroship Fellowship |
+| **Apr 2026 – Jun 2026** | Data Science Intern | 10Pearls Pakistan |
+| **Aug 2025 – Oct 2025** | Conversational AI Intern | Prudential Solutions |
+
+<details>
+<summary><b>What I shipped in each role</b></summary>
+
+<br/>
+
+**AI Lead Engineer · IT CYBX**
+- Built an end-to-end lead-generation pipeline (Apollo, Sales Navigator, n8n) for automated data cleaning, workflow orchestration and performance reporting.
+- Developed **ITCYBX Live Bot**, a bilingual (English/Arabic) RAG chatbot on LangGraph, Pinecone, FastAPI, Redis and Supabase that answers visitor questions, captures leads with retrying email and Google Sheets alerts, and books meetings.
+
+**AI/ML Engineer Intern · NeuroG.AI**
+- Contributed to **CryptoSight**, a quantitative trading platform pairing FinBERT sentiment analysis from Reddit with 12 trained ML models for trade-signal generation, plus a backtesting engine accounting for fees, slippage and drawdown, automated execution on Bybit's testnet, and a real-time dashboard.
+
+**Data Science Intern · 10Pearls Pakistan**
+- Built **AirLyst**, a serverless MLOps pipeline forecasting Islamabad air quality 72 hours ahead: automated ingestion via Hopsworks Feature Store, weekly model tournaments (Ridge, RF, XGBoost, LightGBM) with GitHub Actions retraining; selected LightGBM reached **R² 0.986**, served as SHAP-explainable predictions through FastAPI to a Next.js dashboard.
+
+**Conversational AI Intern · Prudential Solutions**
+- Evaluated and benchmarked voice AI modules (STT, TTS, speech-to-speech) using GPT-based APIs for an enterprise HR chatbot.
 
 </details>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" alt="" />
 
-## Experience & Education
+<!-- ====================== PROJECTS ====================== -->
+## Featured Projects
 
-| When | Where | What |
-|---|---|---|
-| **Present** | **IT CYBX**: AI Lead Engineer | Agents, chatbots, automation and AI-integrated systems for agencies and growing teams |
-| **Summer 2026** | **NeuroG.AI**: AI/ML Engineer intern (Neuroship) | Designed and built CryptoSight end to end, solo, with mentor guidance |
-| **Summer 2026** | **10Pearls Pakistan**: Shine Internship, Data Sciences | Data science and MLOps practice; also competed at Women Tech Quest 2026 |
-| **Oct 2025** | **Prudential Solutions**: Conversational AI intern | Conversational AI development |
-| **Mentoring** | **DevSynt**: AI Automation internship mentor | Guided interns through Python, LangChain, LangGraph, n8n, Telegram bots and Gemini integrations |
-| **2023 - 2027** | **NUML Islamabad**: BS Artificial Intelligence | CGPA 3.79 / 4.0 |
+### IntelliViz — Industrial Monitoring & Agentic Analytics `Final-Year Project`
 
-## Tech I work with
+A full-stack industrial machine-monitoring platform (Next.js, FastAPI, Supabase) with real-time health scores, anomaly detection and maintenance trends. A LangChain/LangGraph multi-agent layer — **Orchestrator, Analyst, Visualizer and Validator** — coordinates analysis tasks and delivers evidence-backed, explainable insights to operators in plain language.
 
-<p align="center">
-  <img src="assets/tools.svg" alt="Languages, ML, agents and deployment tools" width="100%"/>
-</p>
+`LangGraph` `LangChain` `FastAPI` `Next.js` `Supabase` `Multi-Agent Systems`
 
-## Activity
+---
 
-<p align="center">
-  <img src="assets/contrib3d.svg" alt="3D isometric view of the last year of contributions" width="100%"/>
-</p>
+### PakShield Defence AI — Border Security & Threat Intelligence
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+An AI border-monitoring and threat-intelligence platform (FastAPI, Next.js): YOLOv8 weapon detection, YOLOv11 drone detection, a CNN for thermal human detection, FaceNet face recognition, and ML-based network-intrusion and phishing detection — fused by a decision engine into a security-team dashboard. **85.9%–97.2% accuracy** across modules.
 
-## Writing
+`YOLOv8` `YOLOv11` `CNN` `FaceNet` `FastAPI` `Next.js`
 
-I write on LinkedIn about running AI in the real world: RAG vs fine-tuning, why prototypes break in production, how tokens and context windows drive usage, and lessons from shipping software to a real business. [Follow along on LinkedIn](https://linkedin.com/in/afnanshoukat).
+---
 
-## Work with me
+### AirLyst — Serverless MLOps for Air-Quality Forecasting
 
-Open to AI agent, chatbot and workflow-automation projects, and to conversations about applied ML.
+Production-grade pipeline forecasting Islamabad's air quality 72 hours ahead. Automated ingestion through Hopsworks Feature Store, weekly model tournaments with GitHub Actions retraining, **LightGBM at R² 0.986**, and SHAP-explainable predictions served via FastAPI to a Next.js dashboard.
 
-- Email: [afnanshoukat35@gmail.com](mailto:afnanshoukat35@gmail.com)
-- LinkedIn: [linkedin.com/in/afnanshoukat](https://linkedin.com/in/afnanshoukat)
-- Portfolio: [afnanshoukat.vercel.app](https://afnanshoukat.vercel.app)
+`LightGBM` `XGBoost` `Hopsworks` `GitHub Actions` `SHAP` `FastAPI`
+
+---
+
+### SOC Analyst Advisor — On-Premise Security Operations Assistant
+
+A locally hosted SOC assistant: a SOC-tuned **Mistral 7B** served through Ollama behind a FastAPI backend and web chat UI, giving analysts threat-detection insights, incident-response playbooks and automation guidance **without sending data off-premises**.
+
+`Mistral 7B` `Ollama` `FastAPI` `Local LLM` `Cybersecurity`
+
+---
+
+### VoiceIQ — Voice-First RAG Assistant
+
+An end-to-end speech-to-speech RAG pipeline: Deepgram STT, FAISS vector retrieval, multi-LLM routing (Kimi, DeepSeek, Gemini) and persistent cross-session memory, enabling voice-only interaction with private knowledge bases.
+
+`Deepgram` `FAISS` `RAG` `Multi-LLM Routing`
+
+---
+
+### BillSense — Utility-Bill Extraction `WTQ 2026 Build Track`
+
+Converts K-Electric, LESCO and IESCO bill photos into structured JSON using local OCR (RapidOCR/PaddleOCR on ONNX) with provider-specific parsers and arithmetic consistency checks — **16–18 of 18 fields correct across five sample bills, zero wrong values**. An LLM layer (Gemini, Claude fallback) answers customer questions from verified figures only.
+
+`RapidOCR` `PaddleOCR` `ONNX` `Gemini` `Document AI`
+
+---
+
+### TumorSense-AI — Brain-MRI Tumour Classification
+
+Implementation of a published lightweight transfer-learning method for four-class brain-tumour MRI classification (glioma, meningioma, pituitary, none). Compared a from-scratch CNN (**92–94%**) against a fine-tuned ResNet-18 (**96–97%**) with augmentation and a proper train/validation/test split.
+
+`PyTorch` `ResNet-18` `Transfer Learning` `Medical Imaging`
+
+---
+
+### Hiring Automation & Inbox Guardian — n8n Agent Workflows
+
+A multi-role hiring pipeline that deduplicates applications, classifies resumes by role fit with AI, and schedules interviews or sends rejections; plus a self-hosted email agent that classifies messages in real time, routes priority items to Discord and auto-archives the rest.
+
+`n8n` `LLM Agents` `Automation`
+
+<div align="center">
+<br/>
+<a href="https://github.com/21Afnan?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" alt="" />
+
+<!-- ====================== TECH STACK ====================== -->
+## Tech Stack
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-FF5C8A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-FF77A9?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/SQL-FFA6C9?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+**Machine Learning & Deep Learning**
+
+<img src="https://img.shields.io/badge/PyTorch-FF5C8A?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/scikit--learn-FF77A9?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/XGBoost-FFA6C9?style=for-the-badge" alt="XGBoost" />
+<img src="https://img.shields.io/badge/LightGBM-FFB7D1?style=for-the-badge" alt="LightGBM" />
+<img src="https://img.shields.io/badge/YOLO-FFCADF?style=for-the-badge" alt="YOLO" />
+<img src="https://img.shields.io/badge/SHAP-FFD6E5?style=for-the-badge" alt="SHAP" />
+<img src="https://img.shields.io/badge/ONNX-FFE1EB?style=for-the-badge&logo=onnx&logoColor=333333" alt="ONNX" />
+
+**LLMs & Agents**
+
+<img src="https://img.shields.io/badge/LangGraph-FF5C8A?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangChain-FF77A9?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/RAG-FFA6C9?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Pinecone-FFB7D1?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+<img src="https://img.shields.io/badge/FAISS-FFCADF?style=for-the-badge" alt="FAISS" />
+<img src="https://img.shields.io/badge/Ollama-FFD6E5?style=for-the-badge&logo=ollama&logoColor=333333" alt="Ollama" />
+
+**Deployment, MLOps & Data**
+
+<img src="https://img.shields.io/badge/FastAPI-FF5C8A?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Docker-FF77A9?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-FFA6C9?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/n8n-FFB7D1?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Hopsworks-FFCADF?style=for-the-badge" alt="Hopsworks" />
+<img src="https://img.shields.io/badge/Next.js-FFD6E5?style=for-the-badge&logo=nextdotjs&logoColor=333333" alt="Next.js" />
+<img src="https://img.shields.io/badge/Supabase-FFE1EB?style=for-the-badge&logo=supabase&logoColor=333333" alt="Supabase" />
+<img src="https://img.shields.io/badge/PostgreSQL-FF9DBD?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-FFB7D1?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" alt="" />
+
+<!-- ====================== STATS ====================== -->
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=21Afnan&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4&text_color=808080&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Afnan&layout=compact&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=808080&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=21Afnan&theme=transparent&border=transparent&ring=FF1493&fire=FF5C8A&currStreakNum=FF69B4&sideNums=FF69B4&sideLabels=FF69B4&currStreakLabel=FF69B4&dates=FFB6C1&stroke=FF1493" alt="GitHub streak" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4" alt="" />
+
+<!-- ====================== CONTACT ====================== -->
+## Let's Connect
+
+I am open to **fully funded MS/PhD opportunities**, research collaborations on agentic AI, and conversations about putting LLM agents into production.
+
+<div align="center">
+
+<a href="mailto:afnanshoukat35@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/afnanshoukat"><img src="https://img.shields.io/badge/LinkedIn-FF77A9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.afnanshoukat.me"><img src="https://img.shields.io/badge/Portfolio-FFA6C9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/21Afnan"><img src="https://img.shields.io/badge/GitHub-FFB7D1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FF69B4" alt="" />
